@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:39,563] Register_To_System - Step 01: Open Home Page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:39,573] Register_To_System - Step 02: Click to Register link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:43,204] Register_To_System - Step 03: Select gender male
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:43,335] Register_To_System - Step 04: Input to Firstname with: Carroll
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:43,503] Register_To_System - Step 05: Input to Lastname with: Runolfsson
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:43,685] Register_To_System - Step 06: Select day: 24
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:43,886] Register_To_System - Step 07: Select month: August
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:44,069] Register_To_System - Step 08: Select year: 1990
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:44,239] Register_To_System - Step 09: Input to Email with: ron.oconner@yahoo.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:44,413] Register_To_System - Step 10: Input to Company name with: Stokes, Stoltenberg and Murphy
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:44,580] Register_To_System - Step 11: Input to Password with: maluz6c647j
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:44,783] Register_To_System - Step 12: Input to Confirm Password with: maluz6c647j
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:44,925] Register_To_System - Step 13: Click to Register button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:47,196] Register_To_System - Step 14: Verify Register Success Message Displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:47,280]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:52,174] Precondition 01: Open Home Page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:52,174] Precondition 02: Click to Login link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:54,844] Precondition 03: Input valid email to Email textbox with: ron.oconner@yahoo.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:55,041] Precondition 04: Input valid password to Password textbox with: maluz6c647j
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:55,184] Precondition 05: Click to Login button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:58,651] Precondition 06: Verify My Account Link Displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:58,791]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:42:58,791] Precondition 07: Click to My Account Link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:01,302] My_Account_01_Customer_Info - Step 01: Update Gender to female
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:01,400] My_Account_01_Customer_Info - Step 02: Update Firstname to Carl
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:01,553] My_Account_01_Customer_Info - Step 03: Update Lastname to Feest
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:01,737] My_Account_01_Customer_Info - Step 04: Update DOB Day to 1
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:01,945] My_Account_01_Customer_Info - Step 05: Update DOB Month to January
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:02,115] My_Account_01_Customer_Info - Step 06: Update DOB Year to 1999
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:02,294] My_Account_01_Customer_Info - Step 07: Update Email to cheryll.dibbert@gmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:02,475] My_Account_01_Customer_Info - Step 08: Update Company name to Barrows Group
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:02,669] My_Account_01_Customer_Info - Step 09: Click Save button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,094] My_Account_01_Customer_Info - Step 10: Verify new Gender
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,173]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,173] My_Account_01_Customer_Info - Step 11: Verify new Firstname
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,242]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,242] My_Account_01_Customer_Info - Step 12: Verify new Lastname
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,302]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,302] My_Account_01_Customer_Info - Step 13: Verify new DOB Day
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,440]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,440] My_Account_01_Customer_Info - Step 14: Verify new DOB Month
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,575]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:06,575] My_Account_01_Customer_Info - Step 15: Verify new DOB Year
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:07,491]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:07,492] My_Account_01_Customer_Info - Step 16: Verify new Email
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:07,553]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:07,554] My_Account_01_Customer_Info - Step 17: Verify new Company name
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:07,618]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:07,899] My_Account_02_Addresses - Step 01: Click to Addresses link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:10,445] My_Account_02_Addresses - Step 02: Click to Add new button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:12,038] My_Account_02_Addresses - Step 03: Input to Firstname with: Vern
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:12,245] My_Account_02_Addresses - Step 04: Input to Lastname with: Botsford
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:12,401] My_Account_02_Addresses - Step 05: Input to Email with: yuri.kemmer@gmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:12,564] My_Account_02_Addresses - Step 06: Input to Company with: Pfeffer, Lang and Pacocha
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:12,740] My_Account_02_Addresses - Step 07: Select Country with: United States
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:12,909] My_Account_02_Addresses - Step 08: Select State/ province with: Alaska
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:13,272] My_Account_02_Addresses - Step 09: Input to City with: Steuberchester
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:13,436] My_Account_02_Addresses - Step 10: Input to Address 1 with: 6299 Hannah Stream
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:13,613] My_Account_02_Addresses - Step 11: Input to Address 2 with: 8620 Adan Prairie
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:13,786] My_Account_02_Addresses - Step 12: Input to Zip/ postal code with: 19552-1744
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:13,969] My_Account_02_Addresses - Step 13: Input to Phone number with: 1-404-837-1666 x51989
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:14,183] My_Account_02_Addresses - Step 14: Input to Fax number with: 088-912-3574 x198
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:14,352] My_Account_02_Addresses - Step 15: Click to Save button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,249] My_Account_02_Addresses - Step 16: Verify Fullname
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,304]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,304] My_Account_02_Addresses - Step 18: Verify Email
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,350]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,350] My_Account_02_Addresses - Step 19: Verify Company
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,382]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,382] My_Account_02_Addresses - Step 20: Verify Country
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,407]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,407] My_Account_02_Addresses - Step 21: Verify City State/ province Zip
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,438]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,438] My_Account_02_Addresses - Step 22: Verify Address 1
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,471]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,471] My_Account_02_Addresses - Step 23: Verify Address 2
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,502]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,502] My_Account_02_Addresses - Step 24: Verify Phone number
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,536]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,536] My_Account_02_Addresses - Step 25: Verify Fax number
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,574]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:16,580] My_Account_03_Change_Password - Step 01: Click to Change Password link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:19,846] My_Account_03_Change_Password - Step 02: Input to Old Password with: maluz6c647j
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:20,018] My_Account_03_Change_Password - Step 03: Input to New Password with: j1by5ual
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:20,173] My_Account_03_Change_Password - Step 04: Input to Confirm New Password with: j1by5ual
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:20,318] My_Account_03_Change_Password - Step 05: Click to Change Password button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:21,918] My_Account_03_Change_Password - Step 06: Verify Password was changed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:22,004]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:22,004] My_Account_03_Change_Password - Step 07: Close Change Password Success Message
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:23,138] My_Account_03_Change_Password - Step 08: Click to Log out link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:25,657] My_Account_03_Change_Password - Step 09: Click to Log in link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:28,919] My_Account_03_Change_Password - Step 10: Input to Email with: cheryll.dibbert@gmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:29,099] My_Account_03_Change_Password - Step 11: Input to Password with: maluz6c647j
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:29,268] My_Account_03_Change_Password - Step 12: Click to Log in button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:31,546] My_Account_03_Change_Password - Step 13: Verify Invalid Password Message Displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:31,680]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:31,681] My_Account_03_Change_Password - Step 14: Input to Email with: cheryll.dibbert@gmail.com
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:31,876] My_Account_03_Change_Password - Step 15: Input to Password with: j1by5ual
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:32,061] My_Account_03_Change_Password - Step 16: Click to Log in button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:33,905] My_Account_03_Change_Password - Step 17: Verify My Account Link Displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:34,010]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:34,013] My_Account_04_My_Product_Reviews - Step 01: Click to Product name with: Apple MacBook Pro 13-inch
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:35,955] My_Account_04_My_Product_Reviews - Step 02: Click to Add your review
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:38,522] My_Account_04_My_Product_Reviews - Step 03: Input to Review title with: Review title
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:38,701] My_Account_04_My_Product_Reviews - Step 04: Input to Review text with: Review text
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:38,878] My_Account_04_My_Product_Reviews - Step 05: Select rating with value: 5
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:38,988] My_Account_04_My_Product_Reviews - Step 06: Click to Submit review
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:40,513] My_Account_04_My_Product_Reviews - Step 07: Verify Product review success message displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:40,614]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:40,614] My_Account_04_My_Product_Reviews - Step 08: Click to My Account link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:41,115] My_Account_04_My_Product_Reviews - Step 09: Click to My product reviews link
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:43,622] My_Account_04_My_Product_Reviews - Step 10: Verify Review title
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:43,706]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:43,706] My_Account_04_My_Product_Reviews - Step 11: Verify Review text
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:43,766]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:43,766] My_Account_04_My_Product_Reviews - Step 12: Verify Rating
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:43,830]  -------------------------- PASSED -------------------------- 
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[INFO ] [2021-03-24 00:43:44,572] ---------- QUIT BROWSER SUCCESS ----------
+<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Nop Commerce" duration-ms="71723" started-at="2021-03-23T17:42:32Z" finished-at="2021-03-23T17:43:44Z">
+    <groups>
+    </groups>
+    <test name="Run on Chrome" duration-ms="71723" started-at="2021-03-23T17:42:32Z" finished-at="2021-03-23T17:43:44Z">
+      <class name="com.nopcommerce.My_Account">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.My_Account@3ad394e6]" name="beforeTest" is-config="true" duration-ms="15086" started-at="2021-03-23T17:42:32Z" finished-at="2021-03-23T17:42:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.nopcommerce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:39,563] Register_To_System - Step 01: Open Home Page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:39,573] Register_To_System - Step 02: Click to Register link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:43,204] Register_To_System - Step 03: Select gender male
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:43,335] Register_To_System - Step 04: Input to Firstname with: Carroll
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:43,503] Register_To_System - Step 05: Input to Lastname with: Runolfsson
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:43,685] Register_To_System - Step 06: Select day: 24
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:43,886] Register_To_System - Step 07: Select month: August
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:44,069] Register_To_System - Step 08: Select year: 1990
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:44,239] Register_To_System - Step 09: Input to Email with: ron.oconner@yahoo.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:44,413] Register_To_System - Step 10: Input to Company name with: Stokes, Stoltenberg and Murphy
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:44,580] Register_To_System - Step 11: Input to Password with: maluz6c647j
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:44,783] Register_To_System - Step 12: Input to Confirm Password with: maluz6c647j
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:44,925] Register_To_System - Step 13: Click to Register button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:47,196] Register_To_System - Step 14: Verify Register Success Message Displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:47,280]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.My_Account@3ad394e6]" name="beforeClass" is-config="true" duration-ms="13291" started-at="2021-03-23T17:42:47Z" finished-at="2021-03-23T17:43:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://demo.nopcommerce.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:52,174] Precondition 01: Open Home Page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:52,174] Precondition 02: Click to Login link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:54,844] Precondition 03: Input valid email to Email textbox with: ron.oconner@yahoo.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:55,041] Precondition 04: Input valid password to Password textbox with: maluz6c647j
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:55,184] Precondition 05: Click to Login button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:58,651] Precondition 06: Verify My Account Link Displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:58,791]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:42:58,791] Precondition 07: Click to My Account Link
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="My_Account_01_Customer_Info()[pri:0, instance:com.nopcommerce.My_Account@3ad394e6]" name="My_Account_01_Customer_Info" duration-ms="6353" started-at="2021-03-23T17:43:01Z" finished-at="2021-03-23T17:43:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:01,302] My_Account_01_Customer_Info - Step 01: Update Gender to female
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:01,400] My_Account_01_Customer_Info - Step 02: Update Firstname to Carl
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:01,553] My_Account_01_Customer_Info - Step 03: Update Lastname to Feest
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:01,737] My_Account_01_Customer_Info - Step 04: Update DOB Day to 1
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:01,945] My_Account_01_Customer_Info - Step 05: Update DOB Month to January
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:02,115] My_Account_01_Customer_Info - Step 06: Update DOB Year to 1999
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:02,294] My_Account_01_Customer_Info - Step 07: Update Email to cheryll.dibbert@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:02,475] My_Account_01_Customer_Info - Step 08: Update Company name to Barrows Group
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:02,669] My_Account_01_Customer_Info - Step 09: Click Save button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,094] My_Account_01_Customer_Info - Step 10: Verify new Gender
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,173]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,173] My_Account_01_Customer_Info - Step 11: Verify new Firstname
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,242]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,242] My_Account_01_Customer_Info - Step 12: Verify new Lastname
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,302]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,302] My_Account_01_Customer_Info - Step 13: Verify new DOB Day
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,440]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,440] My_Account_01_Customer_Info - Step 14: Verify new DOB Month
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,575]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:06,575] My_Account_01_Customer_Info - Step 15: Verify new DOB Year
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:07,491]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:07,492] My_Account_01_Customer_Info - Step 16: Verify new Email
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:07,553]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:07,554] My_Account_01_Customer_Info - Step 17: Verify new Company name
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:07,618]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- My_Account_01_Customer_Info -->
+        <test-method status="PASS" signature="My_Account_02_Addresses()[pri:0, instance:com.nopcommerce.My_Account@3ad394e6]" name="My_Account_02_Addresses" duration-ms="8676" started-at="2021-03-23T17:43:07Z" finished-at="2021-03-23T17:43:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:07,899] My_Account_02_Addresses - Step 01: Click to Addresses link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:10,445] My_Account_02_Addresses - Step 02: Click to Add new button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:12,038] My_Account_02_Addresses - Step 03: Input to Firstname with: Vern
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:12,245] My_Account_02_Addresses - Step 04: Input to Lastname with: Botsford
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:12,401] My_Account_02_Addresses - Step 05: Input to Email with: yuri.kemmer@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:12,564] My_Account_02_Addresses - Step 06: Input to Company with: Pfeffer, Lang and Pacocha
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:12,740] My_Account_02_Addresses - Step 07: Select Country with: United States
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:12,909] My_Account_02_Addresses - Step 08: Select State/ province with: Alaska
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:13,272] My_Account_02_Addresses - Step 09: Input to City with: Steuberchester
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:13,436] My_Account_02_Addresses - Step 10: Input to Address 1 with: 6299 Hannah Stream
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:13,613] My_Account_02_Addresses - Step 11: Input to Address 2 with: 8620 Adan Prairie
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:13,786] My_Account_02_Addresses - Step 12: Input to Zip/ postal code with: 19552-1744
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:13,969] My_Account_02_Addresses - Step 13: Input to Phone number with: 1-404-837-1666 x51989
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:14,183] My_Account_02_Addresses - Step 14: Input to Fax number with: 088-912-3574 x198
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:14,352] My_Account_02_Addresses - Step 15: Click to Save button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,249] My_Account_02_Addresses - Step 16: Verify Fullname
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,304]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,304] My_Account_02_Addresses - Step 18: Verify Email
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,350]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,350] My_Account_02_Addresses - Step 19: Verify Company
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,382]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,382] My_Account_02_Addresses - Step 20: Verify Country
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,407]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,407] My_Account_02_Addresses - Step 21: Verify City State/ province Zip
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,438]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,438] My_Account_02_Addresses - Step 22: Verify Address 1
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,471]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,471] My_Account_02_Addresses - Step 23: Verify Address 2
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,502]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,502] My_Account_02_Addresses - Step 24: Verify Phone number
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,536]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,536] My_Account_02_Addresses - Step 25: Verify Fax number
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,574]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- My_Account_02_Addresses -->
+        <test-method status="PASS" signature="My_Account_03_Change_Password()[pri:0, instance:com.nopcommerce.My_Account@3ad394e6]" name="My_Account_03_Change_Password" duration-ms="17434" started-at="2021-03-23T17:43:16Z" finished-at="2021-03-23T17:43:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:16,580] My_Account_03_Change_Password - Step 01: Click to Change Password link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:19,846] My_Account_03_Change_Password - Step 02: Input to Old Password with: maluz6c647j
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:20,018] My_Account_03_Change_Password - Step 03: Input to New Password with: j1by5ual
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:20,173] My_Account_03_Change_Password - Step 04: Input to Confirm New Password with: j1by5ual
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:20,318] My_Account_03_Change_Password - Step 05: Click to Change Password button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:21,918] My_Account_03_Change_Password - Step 06: Verify Password was changed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:22,004]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:22,004] My_Account_03_Change_Password - Step 07: Close Change Password Success Message
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:23,138] My_Account_03_Change_Password - Step 08: Click to Log out link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:25,657] My_Account_03_Change_Password - Step 09: Click to Log in link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:28,919] My_Account_03_Change_Password - Step 10: Input to Email with: cheryll.dibbert@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:29,099] My_Account_03_Change_Password - Step 11: Input to Password with: maluz6c647j
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:29,268] My_Account_03_Change_Password - Step 12: Click to Log in button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:31,546] My_Account_03_Change_Password - Step 13: Verify Invalid Password Message Displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:31,680]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:31,681] My_Account_03_Change_Password - Step 14: Input to Email with: cheryll.dibbert@gmail.com
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:31,876] My_Account_03_Change_Password - Step 15: Input to Password with: j1by5ual
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:32,061] My_Account_03_Change_Password - Step 16: Click to Log in button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:33,905] My_Account_03_Change_Password - Step 17: Verify My Account Link Displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:34,010]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- My_Account_03_Change_Password -->
+        <test-method status="PASS" signature="My_Account_04_My_Product_Reviews()[pri:0, instance:com.nopcommerce.My_Account@3ad394e6]" name="My_Account_04_My_Product_Reviews" duration-ms="9819" started-at="2021-03-23T17:43:34Z" finished-at="2021-03-23T17:43:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:34,013] My_Account_04_My_Product_Reviews - Step 01: Click to Product name with: Apple MacBook Pro 13-inch
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:35,955] My_Account_04_My_Product_Reviews - Step 02: Click to Add your review
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:38,522] My_Account_04_My_Product_Reviews - Step 03: Input to Review title with: Review title
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:38,701] My_Account_04_My_Product_Reviews - Step 04: Input to Review text with: Review text
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:38,878] My_Account_04_My_Product_Reviews - Step 05: Select rating with value: 5
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:38,988] My_Account_04_My_Product_Reviews - Step 06: Click to Submit review
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:40,513] My_Account_04_My_Product_Reviews - Step 07: Verify Product review success message displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:40,614]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:40,614] My_Account_04_My_Product_Reviews - Step 08: Click to My Account link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:41,115] My_Account_04_My_Product_Reviews - Step 09: Click to My product reviews link
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:43,622] My_Account_04_My_Product_Reviews - Step 10: Verify Review title
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:43,706]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:43,706] My_Account_04_My_Product_Reviews - Step 11: Verify Review text
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:43,766]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:43,766] My_Account_04_My_Product_Reviews - Step 12: Verify Rating
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:43,830]  -------------------------- PASSED -------------------------- 
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- My_Account_04_My_Product_Reviews -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.nopcommerce.My_Account@3ad394e6]" name="afterClass" is-config="true" duration-ms="743" started-at="2021-03-23T17:43:43Z" finished-at="2021-03-23T17:43:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[INFO ] [2021-03-24 00:43:44,572] ---------- QUIT BROWSER SUCCESS ----------
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.My_Account -->
+    </test> <!-- Run on Chrome -->
+  </suite> <!-- Nop Commerce -->
+</testng-results>

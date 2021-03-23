@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Nop Commerce]">
+  <parameter name="url" value="https://demo.nopcommerce.com/"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="reportConfig.ExtentReportListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="reportConfig.AllureTestListener"/>
+  </listeners>
+  <test thread-count="5" name="Run on Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nopcommerce.My_Account">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="My_Account_01_Customer_Info"/>
+          <include name="My_Account_02_Addresses"/>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="My_Account_03_Change_Password"/>
+          <include name="My_Account_04_My_Product_Reviews"/>
+        </methods>
+      </class> <!-- com.nopcommerce.My_Account -->
+    </classes>
+  </test> <!-- Run on Chrome(failed) -->
+</suite> <!-- Failed suite [Nop Commerce] -->
