@@ -29,10 +29,6 @@ import pageUIs.ReviewPageUI;
 
 public class BasePage {
 	
-	public static BasePage getBasePage() {
-		return new BasePage();
-	}
-
 	public void openPageUrl(WebDriver driver, String pageUrl) {
 		driver.get(pageUrl);
 	}
