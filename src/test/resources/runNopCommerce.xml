@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Nop Commerce" parallel="false">
-	<parameter name="url" value="https://demo.nopcommerce.com/" />
+    <parameter name="url" value="https://demo.nopcommerce.com/"/>
 
-	<listeners>
-		<listener class-name="commons.MethodListener" />
-		<listener class-name="reportConfig.ExtentReportListener" />
-		<listener class-name="org.uncommons.reportng.HTMLReporter" />
-		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
-		<listener class-name="reportConfig.AllureTestListener" />
-	</listeners>
-	<test name="Run on Chrome">
-		<parameter name="browser" value="chrome" />
-		<classes>
-<!-- 			<class name="com.nopcommerce.commons.Register_To_System" /> -->
-<!-- 			<class name="com.nopcommerce.Register" /> -->
-<!-- 			<class name="com.nopcommerce.Login" /> -->
-			<class name="com.nopcommerce.My_Account" />
-		</classes>
-	</test>
+    <listeners>
+        <listener class-name="commons.MethodListener"/>
+        <listener class-name="retryConfig.RetryListener"/>
+        <listener class-name="reportConfig.ExtentReportListener"/>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="reportConfig.AllureTestListener"/>
+    </listeners>
+    <test name="Run on Chrome">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.nopcommerce.commons.Register_To_System"/>
+            <class name="com.nopcommerce.Register"/>
+            <class name="com.nopcommerce.Login"/>
+            <class name="com.nopcommerce.My_Account"/>
+        </classes>
+    </test>
 </suite>

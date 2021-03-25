@@ -4,13 +4,13 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="42.282">
+           time="40.183">
   <properties />
   
   
-            <testcase name="My_Account_02_Addresses" time="8.676" classname="com.nopcommerce.My_Account" />
-                <testcase name="My_Account_04_My_Product_Reviews" time="9.819" classname="com.nopcommerce.My_Account" />
-                <testcase name="My_Account_03_Change_Password" time="17.434" classname="com.nopcommerce.My_Account" />
-                <testcase name="My_Account_01_Customer_Info" time="6.353" classname="com.nopcommerce.My_Account" />
+            <testcase name="My_Account_04_My_Product_Reviews" time="10.898" classname="com.nopcommerce.My_Account" />
+                <testcase name="My_Account_01_Customer_Info" time="4.718" classname="com.nopcommerce.My_Account" />
+                <testcase name="My_Account_03_Change_Password" time="15.345" classname="com.nopcommerce.My_Account" />
+                <testcase name="My_Account_02_Addresses" time="9.222" classname="com.nopcommerce.My_Account" />
       
 </testsuite>
