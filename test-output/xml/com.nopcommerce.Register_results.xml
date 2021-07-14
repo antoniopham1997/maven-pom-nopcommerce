@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="7"
+           time="0.000">
+  <properties />
+  
+            <testcase name="beforeClass" time="0.0" classname="com.nopcommerce.Register">
+          <skipped />
+    </testcase>
+            <testcase name="Register_01_Register_With_Empty_Data" time="0.0" classname="com.nopcommerce.Register">
+          <skipped />
+    </testcase>
+            <testcase name="Register_06_Register_With_Valid_Data" time="0.0" classname="com.nopcommerce.Register">
+          <skipped />
+    </testcase>
+            <testcase name="Register_04_Register_With_Invalid_Password" time="0.0" classname="com.nopcommerce.Register">
+          <skipped />
+    </testcase>
+            <testcase name="Register_02_Register_With_Invalid_Email" time="0.0" classname="com.nopcommerce.Register">
+          <skipped />
+    </testcase>
+            <testcase name="Register_05_Register_With_Invalid_Confirm_Password" time="0.0" classname="com.nopcommerce.Register">
+          <skipped />
+    </testcase>
+            <testcase name="Register_03_Register_With_Existed_Email" time="0.0" classname="com.nopcommerce.Register">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

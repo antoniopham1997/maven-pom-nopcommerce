@@ -5,11 +5,13 @@ D:\selenium automation\04 - Maven Framework\src\main\java\pageObjects\LoginPageO
 D:\selenium automation\04 - Maven Framework\src\main\java\commons\BaseTest.java
 D:\selenium automation\04 - Maven Framework\src\main\java\commons\BasePageUI.java
 D:\selenium automation\04 - Maven Framework\src\main\java\pageUIs\HomePageUI.java
+D:\selenium automation\04 - Maven Framework\src\main\java\retryConfig\RetryFailedManager.java
 D:\selenium automation\04 - Maven Framework\src\main\java\pageObjects\MyAccountPageObject.java
 D:\selenium automation\04 - Maven Framework\src\main\java\reportConfig\AllureReportListener.java
 D:\selenium automation\04 - Maven Framework\src\main\java\reportConfig\ExtentReportListener.java
 D:\selenium automation\04 - Maven Framework\src\main\java\pageObjects\PageGeneratorManager.java
 D:\selenium automation\04 - Maven Framework\src\main\java\commons\BasePage.java
+D:\selenium automation\04 - Maven Framework\src\main\java\retryConfig\RetryListener.java
 D:\selenium automation\04 - Maven Framework\src\main\java\pageObjects\RegisterPageObject.java
 D:\selenium automation\04 - Maven Framework\src\main\java\pageObjects\ProductPageObject.java
 D:\selenium automation\04 - Maven Framework\src\main\java\pageObjects\ReviewPageObject.java

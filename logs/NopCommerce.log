@@ -805,3 +805,714 @@
 [INFO ] [2021-03-25 00:21:09,731] My_Account_04_My_Product_Reviews - Step 12: Verify Rating
 [INFO ] [2021-03-25 00:21:09,798]  -------------------------- PASSED -------------------------- 
 [INFO ] [2021-03-25 00:21:10,550] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-27 23:43:28,983] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-27 23:43:29,003] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-27 23:43:32,552] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-27 23:43:32,707] Register_To_System - Step 04: Input to Firstname with: Signe
+[INFO ] [2021-03-27 23:43:32,878] Register_To_System - Step 05: Input to Lastname with: Hansen
+[INFO ] [2021-03-27 23:43:33,017] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-27 23:43:33,170] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-27 23:43:33,313] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-27 23:43:33,454] Register_To_System - Step 09: Input to Email with: tod.schinner@gmail.com
+[INFO ] [2021-03-27 23:43:33,591] Register_To_System - Step 10: Input to Company name with: Cummings, Dooley and Prosacco
+[INFO ] [2021-03-27 23:43:33,747] Register_To_System - Step 11: Input to Password with: 3bxyeh6qx0lrg88
+[INFO ] [2021-03-27 23:43:33,914] Register_To_System - Step 12: Input to Confirm Password with: 3bxyeh6qx0lrg88
+[INFO ] [2021-03-27 23:43:34,044] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-27 23:43:35,607] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-27 23:43:35,687]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:40,386] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-27 23:43:40,386] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-27 23:43:40,387] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-27 23:43:40,387] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-27 23:43:43,865] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-27 23:43:43,865] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-27 23:43:44,012] Register_To_System - Step 04: Input to Firstname with: Dorethea
+[INFO ] [2021-03-27 23:43:44,012] Register_To_System - Step 04: Input to Firstname with: Dorethea
+[INFO ] [2021-03-27 23:43:44,149] Register_To_System - Step 05: Input to Lastname with: Moen
+[INFO ] [2021-03-27 23:43:44,149] Register_To_System - Step 05: Input to Lastname with: Moen
+[INFO ] [2021-03-27 23:43:44,287] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-27 23:43:44,287] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-27 23:43:44,440] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-27 23:43:44,440] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-27 23:43:44,580] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-27 23:43:44,580] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-27 23:43:44,723] Register_To_System - Step 09: Input to Email with: stanford.dietrich@yahoo.com
+[INFO ] [2021-03-27 23:43:44,723] Register_To_System - Step 09: Input to Email with: stanford.dietrich@yahoo.com
+[INFO ] [2021-03-27 23:43:44,866] Register_To_System - Step 10: Input to Company name with: Roob and Sons
+[INFO ] [2021-03-27 23:43:44,866] Register_To_System - Step 10: Input to Company name with: Roob and Sons
+[INFO ] [2021-03-27 23:43:45,003] Register_To_System - Step 11: Input to Password with: lh7k6ag1us
+[INFO ] [2021-03-27 23:43:45,003] Register_To_System - Step 11: Input to Password with: lh7k6ag1us
+[INFO ] [2021-03-27 23:43:45,145] Register_To_System - Step 12: Input to Confirm Password with: lh7k6ag1us
+[INFO ] [2021-03-27 23:43:45,145] Register_To_System - Step 12: Input to Confirm Password with: lh7k6ag1us
+[INFO ] [2021-03-27 23:43:45,295] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-27 23:43:45,295] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-27 23:43:46,832] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-27 23:43:46,832] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-27 23:43:46,896]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:46,896]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:51,402] Precondition 01: Open Home Page
+[INFO ] [2021-03-27 23:43:51,402] Precondition 02: Click to Register link
+[INFO ] [2021-03-27 23:43:54,896] Register_01_Register_With_Empty_Data - Step 01: Click to Register button
+[INFO ] [2021-03-27 23:43:55,043] Register_01_Register_With_Empty_Data - Step 02: Verify First Name Error Message Displayed
+[INFO ] [2021-03-27 23:43:55,111]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:55,111] Register_01_Register_With_Empty_Data - Step 03: Verify Last Name Error Message Displayed
+[INFO ] [2021-03-27 23:43:55,174]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:55,174] Register_01_Register_With_Empty_Data - Step 04: Verify Email Error Message Displayed
+[INFO ] [2021-03-27 23:43:55,236]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:55,236] Register_01_Register_With_Empty_Data - Step 05: Verify Password Error Message Displayed
+[INFO ] [2021-03-27 23:43:55,299]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:55,299] Register_01_Register_With_Empty_Data - Step 06: Verify Confirm Password Error Message Displayed
+[INFO ] [2021-03-27 23:43:55,361]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:55,453] Register_02_Register_With_Invalid_Email - Step 01: Input to Firstname with: Voncile
+[INFO ] [2021-03-27 23:43:55,591] Register_02_Register_With_Invalid_Email - Step 02: Input to Lastname with: Bogan
+[INFO ] [2021-03-27 23:43:55,738] Register_02_Register_With_Invalid_Email - Step 03: Input to Email with: auto@mail@mail.com
+[INFO ] [2021-03-27 23:43:55,909] Register_02_Register_With_Invalid_Email - Step 04: Input to Password with: 9zz600a0a2i6mc
+[INFO ] [2021-03-27 23:43:56,097] Register_02_Register_With_Invalid_Email - Step 05: Input to Confirm Password with: 9zz600a0a2i6mc
+[INFO ] [2021-03-27 23:43:56,270] Register_02_Register_With_Invalid_Email - Step 06: Click to Register button
+[INFO ] [2021-03-27 23:43:56,364] Register_02_Register_With_Invalid_Email - Step 07: Verify Invalid Email Message Displayed
+[INFO ] [2021-03-27 23:43:56,434]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:56,437] Register_03_Register_With_Existed_Email - Step 01: Input to Firstname with: Voncile
+[INFO ] [2021-03-27 23:43:56,583] Register_03_Register_With_Existed_Email - Step 02: Input to Lastname with: Bogan
+[INFO ] [2021-03-27 23:43:56,733] Register_03_Register_With_Existed_Email - Step 03: Input to Email with: stanford.dietrich@yahoo.com
+[INFO ] [2021-03-27 23:43:56,900] Register_03_Register_With_Existed_Email - Step 04: Input to Password with: 9zz600a0a2i6mc
+[INFO ] [2021-03-27 23:43:57,045] Register_03_Register_With_Existed_Email - Step 05: Input to Confirm Password with: 9zz600a0a2i6mc
+[INFO ] [2021-03-27 23:43:57,203] Register_03_Register_With_Existed_Email - Step 06: Click to Register button
+[INFO ] [2021-03-27 23:43:57,680] Register_03_Register_With_Existed_Email - Step 07: Verify Already Exists Email Message Displayed
+[INFO ] [2021-03-27 23:43:57,757]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:57,759] Register_04_Register_With_Invalid_Password - Step 01: Input to Firstname with: Voncile
+[INFO ] [2021-03-27 23:43:57,872] Register_04_Register_With_Invalid_Password - Step 02: Input to Lastname with: Bogan
+[INFO ] [2021-03-27 23:43:57,985] Register_04_Register_With_Invalid_Password - Step 03: Input to Email with: verda.armstrong@hotmail.com
+[INFO ] [2021-03-27 23:43:58,156] Register_04_Register_With_Invalid_Password - Step 04: Input to Password with: 12345
+[INFO ] [2021-03-27 23:43:58,287] Register_04_Register_With_Invalid_Password - Step 05: Input to Confirm Password with: 12345
+[INFO ] [2021-03-27 23:43:58,421] Register_04_Register_With_Invalid_Password - Step 06: Click to Register button
+[INFO ] [2021-03-27 23:43:58,548] Register_04_Register_With_Invalid_Password - Step 07: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-27 23:43:58,609]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:58,612] Register_05_Register_With_Invalid_Confirm_Password - Step 01: Input to Firstname with: Voncile
+[INFO ] [2021-03-27 23:43:58,710] Register_05_Register_With_Invalid_Confirm_Password - Step 02: Input to Lastname with: Bogan
+[INFO ] [2021-03-27 23:43:58,848] Register_05_Register_With_Invalid_Confirm_Password - Step 03: Input to Email with: verda.armstrong@hotmail.com
+[INFO ] [2021-03-27 23:43:58,990] Register_05_Register_With_Invalid_Confirm_Password - Step 04: Input to Password with: 9zz600a0a2i6mc
+[INFO ] [2021-03-27 23:43:59,124] Register_05_Register_With_Invalid_Confirm_Password - Step 05: Input to Confirm Password with: vn6yj77h1429oxc
+[INFO ] [2021-03-27 23:43:59,273] Register_05_Register_With_Invalid_Confirm_Password - Step 06: Click to Register button
+[INFO ] [2021-03-27 23:43:59,358] Register_05_Register_With_Invalid_Confirm_Password - Step 07: Verify Invalid Confirm Password Message Displayed
+[INFO ] [2021-03-27 23:43:59,426]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:43:59,429] Register_06_Register_With_Valid_Data - Step 01: Input to Firstname with: Voncile
+[INFO ] [2021-03-27 23:43:59,561] Register_06_Register_With_Valid_Data - Step 02: Input to Lastname with: Bogan
+[INFO ] [2021-03-27 23:43:59,690] Register_06_Register_With_Valid_Data - Step 03: Input to Email with: verda.armstrong@hotmail.com
+[INFO ] [2021-03-27 23:43:59,826] Register_06_Register_With_Valid_Data - Step 04: Input to Password with: 9zz600a0a2i6mc
+[INFO ] [2021-03-27 23:43:59,964] Register_06_Register_With_Valid_Data - Step 05: Input to Confirm Password with: 9zz600a0a2i6mc
+[INFO ] [2021-03-27 23:44:00,102] Register_06_Register_With_Valid_Data - Step 06: Click to Register button
+[INFO ] [2021-03-27 23:44:01,673] Register_06_Register_With_Valid_Data - Step 07: Verify Register Success Message Displayed
+[INFO ] [2021-03-27 23:44:01,735]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:02,533] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-27 23:44:08,435] Precondition 01: Open Home Page
+[INFO ] [2021-03-27 23:44:08,435] Precondition 02: Click to Login link
+[INFO ] [2021-03-27 23:44:11,035] Login_01_Login_With_Empty_Data - Step 01: Do not input to Email textbox
+[INFO ] [2021-03-27 23:44:11,211] Login_01_Login_With_Empty_Data - Step 02: Do not input to Password textbox
+[INFO ] [2021-03-27 23:44:11,324] Login_01_Login_With_Empty_Data - Step 03: Click to Login button
+[INFO ] [2021-03-27 23:44:12,442] Login_01_Login_With_Empty_Data - Step 04: Verify Empty Email Message Displayed
+[INFO ] [2021-03-27 23:44:12,578]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:12,580] Login_02_Login_With_Invalid_Email - Step 01: Input invalid email to Email textbox with: automation@mail@gmail.com
+[INFO ] [2021-03-27 23:44:12,730] Login_02_Login_With_Invalid_Email - Step 02: Input to Password textbox with: c2v5omzhtrck
+[INFO ] [2021-03-27 23:44:12,853] Login_02_Login_With_Invalid_Email - Step 03: Click to Login button
+[INFO ] [2021-03-27 23:44:13,935] Login_02_Login_With_Invalid_Email - Step 04: Verify Wrong Email Message Displayed
+[INFO ] [2021-03-27 23:44:14,103]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:14,109] Login_03_Login_With_Not_Exist_Email - Step 01: Input not exist email to Email textbox with: marcus.price@hotmail.com
+[INFO ] [2021-03-27 23:44:14,297] Login_03_Login_With_Not_Exist_Email - Step 02: Input to Password textbox with: c2v5omzhtrck
+[INFO ] [2021-03-27 23:44:14,423] Login_03_Login_With_Not_Exist_Email - Step 03: Click to Login button
+[INFO ] [2021-03-27 23:44:16,656] Login_03_Login_With_Not_Exist_Email - Step 04: Verify No Customer Account Message Displayed
+[INFO ] [2021-03-27 23:44:16,759]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:16,762] Login_04_Login_With_Empty_Password - Step 01: Input to Email textbox with: stanford.dietrich@yahoo.com
+[INFO ] [2021-03-27 23:44:16,896] Login_04_Login_With_Empty_Password - Step 02: Do not input to Password textbox
+[INFO ] [2021-03-27 23:44:17,042] Login_04_Login_With_Empty_Password - Step 03: Click to Login button
+[INFO ] [2021-03-27 23:44:19,443] Login_04_Login_With_Empty_Password - Step 04: Verify Empty Password Message Displayed
+[INFO ] [2021-03-27 23:44:19,598]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:19,601] Login_05_Login_With_Invalid_Password - Step 01: Input to Email textbox with: stanford.dietrich@yahoo.com
+[INFO ] [2021-03-27 23:44:19,761] Login_05_Login_With_Invalid_Password - Step 02: Input invalid password to Password textbox with: 12345
+[INFO ] [2021-03-27 23:44:19,889] Login_05_Login_With_Invalid_Password - Step 03: Click to Login button
+[INFO ] [2021-03-27 23:44:21,465] Login_05_Login_With_Invalid_Password - Step 04: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-27 23:44:21,612]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:21,615] Login_06_Login_With_Valid_Data - Step 01: Input valid email to Email textbox with: stanford.dietrich@yahoo.com
+[INFO ] [2021-03-27 23:44:21,789] Login_06_Login_With_Valid_Data - Step 02: Input valid password to Password textbox with: lh7k6ag1us
+[INFO ] [2021-03-27 23:44:21,947] Login_06_Login_With_Valid_Data - Step 03: Click to Login button
+[INFO ] [2021-03-27 23:44:25,461] Login_06_Login_With_Valid_Data - Step 04: Verify My Account Link Displayed
+[INFO ] [2021-03-27 23:44:25,632]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:26,431] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-27 23:44:32,434] Precondition 01: Open Home Page
+[INFO ] [2021-03-27 23:44:32,434] Precondition 02: Click to Login link
+[INFO ] [2021-03-27 23:44:35,760] Precondition 03: Input valid email to Email textbox with: tod.schinner@gmail.com
+[INFO ] [2021-03-27 23:44:36,008] Precondition 04: Input valid password to Password textbox with: 3bxyeh6qx0lrg88
+[INFO ] [2021-03-27 23:44:36,138] Precondition 05: Click to Login button
+[INFO ] [2021-03-27 23:44:39,564] Precondition 06: Verify My Account Link Displayed
+[INFO ] [2021-03-27 23:44:39,669]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:39,669] Precondition 07: Click to My Account Link
+[INFO ] [2021-03-27 23:44:42,208] My_Account_01_Customer_Info - Step 01: Update Gender to female
+[INFO ] [2021-03-27 23:44:42,329] My_Account_01_Customer_Info - Step 02: Update Firstname to Taylor
+[INFO ] [2021-03-27 23:44:42,478] My_Account_01_Customer_Info - Step 03: Update Lastname to Cummerata
+[INFO ] [2021-03-27 23:44:42,617] My_Account_01_Customer_Info - Step 04: Update DOB Day to 1
+[INFO ] [2021-03-27 23:44:42,755] My_Account_01_Customer_Info - Step 05: Update DOB Month to January
+[INFO ] [2021-03-27 23:44:42,895] My_Account_01_Customer_Info - Step 06: Update DOB Year to 1999
+[INFO ] [2021-03-27 23:44:43,057] My_Account_01_Customer_Info - Step 07: Update Email to tuyet.bode@hotmail.com
+[INFO ] [2021-03-27 23:44:43,205] My_Account_01_Customer_Info - Step 08: Update Company name to Beatty-Kemmer
+[INFO ] [2021-03-27 23:44:43,363] My_Account_01_Customer_Info - Step 09: Click Save button
+[INFO ] [2021-03-27 23:44:45,233] My_Account_01_Customer_Info - Step 10: Verify new Gender
+[INFO ] [2021-03-27 23:44:45,385]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:45,385] My_Account_01_Customer_Info - Step 11: Verify new Firstname
+[INFO ] [2021-03-27 23:44:45,473]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:45,473] My_Account_01_Customer_Info - Step 12: Verify new Lastname
+[INFO ] [2021-03-27 23:44:45,535]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:45,535] My_Account_01_Customer_Info - Step 13: Verify new DOB Day
+[INFO ] [2021-03-27 23:44:45,658]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:45,658] My_Account_01_Customer_Info - Step 14: Verify new DOB Month
+[INFO ] [2021-03-27 23:44:45,768]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:45,768] My_Account_01_Customer_Info - Step 15: Verify new DOB Year
+[INFO ] [2021-03-27 23:44:46,534]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:46,534] My_Account_01_Customer_Info - Step 16: Verify new Email
+[INFO ] [2021-03-27 23:44:46,597]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:46,597] My_Account_01_Customer_Info - Step 17: Verify new Company name
+[INFO ] [2021-03-27 23:44:46,677]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:46,683] My_Account_02_Addresses - Step 01: Click to Addresses link
+[INFO ] [2021-03-27 23:44:49,926] My_Account_02_Addresses - Step 02: Click to Add new button
+[INFO ] [2021-03-27 23:44:52,444] My_Account_02_Addresses - Step 03: Input to Firstname with: Kaley
+[INFO ] [2021-03-27 23:44:52,632] My_Account_02_Addresses - Step 04: Input to Lastname with: Rolfson
+[INFO ] [2021-03-27 23:44:52,769] My_Account_02_Addresses - Step 05: Input to Email with: stephane.wuckert@hotmail.com
+[INFO ] [2021-03-27 23:44:52,913] My_Account_02_Addresses - Step 06: Input to Company with: Lind, Ruecker and Beahan
+[INFO ] [2021-03-27 23:44:53,056] My_Account_02_Addresses - Step 07: Select Country with: United States
+[INFO ] [2021-03-27 23:44:53,195] My_Account_02_Addresses - Step 08: Select State/ province with: Alaska
+[INFO ] [2021-03-27 23:44:53,663] My_Account_02_Addresses - Step 09: Input to City with: West Valeriton
+[INFO ] [2021-03-27 23:44:53,799] My_Account_02_Addresses - Step 10: Input to Address 1 with: 980 Gabriel Rest
+[INFO ] [2021-03-27 23:44:53,940] My_Account_02_Addresses - Step 11: Input to Address 2 with: 957 Luettgen Causeway
+[INFO ] [2021-03-27 23:44:54,093] My_Account_02_Addresses - Step 12: Input to Zip/ postal code with: 02447
+[INFO ] [2021-03-27 23:44:54,226] My_Account_02_Addresses - Step 13: Input to Phone number with: (016) 060-8716 x963
+[INFO ] [2021-03-27 23:44:54,370] My_Account_02_Addresses - Step 14: Input to Fax number with: (345) 417-4634 x28871
+[INFO ] [2021-03-27 23:44:54,555] My_Account_02_Addresses - Step 15: Click to Save button
+[INFO ] [2021-03-27 23:44:56,531] My_Account_02_Addresses - Step 16: Verify Fullname
+[INFO ] [2021-03-27 23:44:56,603]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,604] My_Account_02_Addresses - Step 18: Verify Email
+[INFO ] [2021-03-27 23:44:56,650]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,650] My_Account_02_Addresses - Step 19: Verify Company
+[INFO ] [2021-03-27 23:44:56,676]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,676] My_Account_02_Addresses - Step 20: Verify Country
+[INFO ] [2021-03-27 23:44:56,706]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,706] My_Account_02_Addresses - Step 21: Verify City State/ province Zip
+[INFO ] [2021-03-27 23:44:56,739]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,739] My_Account_02_Addresses - Step 22: Verify Address 1
+[INFO ] [2021-03-27 23:44:56,769]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,769] My_Account_02_Addresses - Step 23: Verify Address 2
+[INFO ] [2021-03-27 23:44:56,799]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,799] My_Account_02_Addresses - Step 24: Verify Phone number
+[INFO ] [2021-03-27 23:44:56,831]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,831] My_Account_02_Addresses - Step 25: Verify Fax number
+[INFO ] [2021-03-27 23:44:56,862]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:44:56,864] My_Account_03_Change_Password - Step 01: Click to Change Password link
+[INFO ] [2021-03-27 23:44:59,379] My_Account_03_Change_Password - Step 02: Input to Old Password with: 3bxyeh6qx0lrg88
+[INFO ] [2021-03-27 23:44:59,532] My_Account_03_Change_Password - Step 03: Input to New Password with: qouh349q4urqonn
+[INFO ] [2021-03-27 23:44:59,662] My_Account_03_Change_Password - Step 04: Input to Confirm New Password with: qouh349q4urqonn
+[INFO ] [2021-03-27 23:44:59,842] My_Account_03_Change_Password - Step 05: Click to Change Password button
+[INFO ] [2021-03-27 23:45:01,453] My_Account_03_Change_Password - Step 06: Verify Password was changed
+[INFO ] [2021-03-27 23:45:01,539]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:45:01,539] My_Account_03_Change_Password - Step 07: Close Change Password Success Message
+[INFO ] [2021-03-27 23:45:02,664] My_Account_03_Change_Password - Step 08: Click to Log out link
+[INFO ] [2021-03-27 23:45:04,547] My_Account_03_Change_Password - Step 09: Click to Log in link
+[INFO ] [2021-03-27 23:45:07,126] My_Account_03_Change_Password - Step 10: Input to Email with: tuyet.bode@hotmail.com
+[INFO ] [2021-03-27 23:45:07,309] My_Account_03_Change_Password - Step 11: Input to Password with: 3bxyeh6qx0lrg88
+[INFO ] [2021-03-27 23:45:07,441] My_Account_03_Change_Password - Step 12: Click to Log in button
+[INFO ] [2021-03-27 23:45:08,979] My_Account_03_Change_Password - Step 13: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-27 23:45:09,117]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:45:09,118] My_Account_03_Change_Password - Step 14: Input to Email with: tuyet.bode@hotmail.com
+[INFO ] [2021-03-27 23:45:09,306] My_Account_03_Change_Password - Step 15: Input to Password with: qouh349q4urqonn
+[INFO ] [2021-03-27 23:45:09,521] My_Account_03_Change_Password - Step 16: Click to Log in button
+[INFO ] [2021-03-27 23:45:11,433] My_Account_03_Change_Password - Step 17: Verify My Account Link Displayed
+[INFO ] [2021-03-27 23:45:11,539]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:45:11,542] My_Account_04_My_Product_Reviews - Step 01: Click to Product name with: Apple MacBook Pro 13-inch
+[INFO ] [2021-03-27 23:45:12,562] My_Account_04_My_Product_Reviews - Step 02: Click to Add your review
+[INFO ] [2021-03-27 23:45:15,180] My_Account_04_My_Product_Reviews - Step 03: Input to Review title with: Review title
+[INFO ] [2021-03-27 23:45:15,341] My_Account_04_My_Product_Reviews - Step 04: Input to Review text with: Review text
+[INFO ] [2021-03-27 23:45:15,477] My_Account_04_My_Product_Reviews - Step 05: Select rating with value: 5
+[INFO ] [2021-03-27 23:45:15,563] My_Account_04_My_Product_Reviews - Step 06: Click to Submit review
+[INFO ] [2021-03-27 23:45:17,264] My_Account_04_My_Product_Reviews - Step 07: Verify Product review success message displayed
+[INFO ] [2021-03-27 23:45:17,384]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:45:17,385] My_Account_04_My_Product_Reviews - Step 08: Click to My Account link
+[INFO ] [2021-03-27 23:45:18,785] My_Account_04_My_Product_Reviews - Step 09: Click to My product reviews link
+[INFO ] [2021-03-27 23:45:21,355] My_Account_04_My_Product_Reviews - Step 10: Verify Review title
+[INFO ] [2021-03-27 23:45:21,467]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:45:21,467] My_Account_04_My_Product_Reviews - Step 11: Verify Review text
+[INFO ] [2021-03-27 23:45:21,533]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:45:21,533] My_Account_04_My_Product_Reviews - Step 12: Verify Rating
+[INFO ] [2021-03-27 23:45:21,595]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-27 23:45:22,313] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-28 14:40:01,052] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-28 14:40:01,084] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-28 14:40:04,785] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-28 14:40:04,921] Register_To_System - Step 04: Input to Firstname with: Olive
+[INFO ] [2021-03-28 14:40:05,087] Register_To_System - Step 05: Input to Lastname with: Towne
+[INFO ] [2021-03-28 14:40:05,268] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-28 14:40:05,468] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-28 14:40:05,665] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-28 14:40:05,844] Register_To_System - Step 09: Input to Email with: tifany.rogahn@yahoo.com
+[INFO ] [2021-03-28 14:40:06,043] Register_To_System - Step 10: Input to Company name with: Hansen-Murphy
+[INFO ] [2021-03-28 14:40:06,234] Register_To_System - Step 11: Input to Password with: ppoozo6c7dkug
+[INFO ] [2021-03-28 14:40:06,436] Register_To_System - Step 12: Input to Confirm Password with: ppoozo6c7dkug
+[INFO ] [2021-03-28 14:40:06,617] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-28 14:40:08,179] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:40:08,289]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:15,649] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-28 14:40:15,649] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-28 14:40:15,654] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-28 14:40:15,654] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-28 14:40:18,487] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-28 14:40:18,487] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-28 14:40:18,614] Register_To_System - Step 04: Input to Firstname with: Harris
+[INFO ] [2021-03-28 14:40:18,614] Register_To_System - Step 04: Input to Firstname with: Harris
+[INFO ] [2021-03-28 14:40:18,787] Register_To_System - Step 05: Input to Lastname with: Casper
+[INFO ] [2021-03-28 14:40:18,787] Register_To_System - Step 05: Input to Lastname with: Casper
+[INFO ] [2021-03-28 14:40:18,986] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-28 14:40:18,986] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-28 14:40:19,144] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-28 14:40:19,144] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-28 14:40:19,315] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-28 14:40:19,315] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-28 14:40:19,491] Register_To_System - Step 09: Input to Email with: deangelo.luettgen@hotmail.com
+[INFO ] [2021-03-28 14:40:19,491] Register_To_System - Step 09: Input to Email with: deangelo.luettgen@hotmail.com
+[INFO ] [2021-03-28 14:40:19,698] Register_To_System - Step 10: Input to Company name with: Mante LLC
+[INFO ] [2021-03-28 14:40:19,698] Register_To_System - Step 10: Input to Company name with: Mante LLC
+[INFO ] [2021-03-28 14:40:19,901] Register_To_System - Step 11: Input to Password with: 5lu5lx8xuu
+[INFO ] [2021-03-28 14:40:19,901] Register_To_System - Step 11: Input to Password with: 5lu5lx8xuu
+[INFO ] [2021-03-28 14:40:20,100] Register_To_System - Step 12: Input to Confirm Password with: 5lu5lx8xuu
+[INFO ] [2021-03-28 14:40:20,100] Register_To_System - Step 12: Input to Confirm Password with: 5lu5lx8xuu
+[INFO ] [2021-03-28 14:40:20,275] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-28 14:40:20,275] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-28 14:40:22,486] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:40:22,486] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:40:22,572]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:22,572]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:29,165] Precondition 01: Open Home Page
+[INFO ] [2021-03-28 14:40:29,165] Precondition 02: Click to Register link
+[INFO ] [2021-03-28 14:40:32,712] Register_01_Register_With_Empty_Data - Step 01: Click to Register button
+[INFO ] [2021-03-28 14:40:32,839] Register_01_Register_With_Empty_Data - Step 02: Verify First Name Error Message Displayed
+[INFO ] [2021-03-28 14:40:32,912]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:32,912] Register_01_Register_With_Empty_Data - Step 03: Verify Last Name Error Message Displayed
+[INFO ] [2021-03-28 14:40:32,975]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:32,975] Register_01_Register_With_Empty_Data - Step 04: Verify Email Error Message Displayed
+[INFO ] [2021-03-28 14:40:33,038]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:33,039] Register_01_Register_With_Empty_Data - Step 05: Verify Password Error Message Displayed
+[INFO ] [2021-03-28 14:40:33,117]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:33,117] Register_01_Register_With_Empty_Data - Step 06: Verify Confirm Password Error Message Displayed
+[INFO ] [2021-03-28 14:40:33,181]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:33,369] Register_02_Register_With_Invalid_Email - Step 01: Input to Firstname with: Franklyn
+[INFO ] [2021-03-28 14:40:33,565] Register_02_Register_With_Invalid_Email - Step 02: Input to Lastname with: Senger
+[INFO ] [2021-03-28 14:40:33,775] Register_02_Register_With_Invalid_Email - Step 03: Input to Email with: auto@mail@mail.com
+[INFO ] [2021-03-28 14:40:33,977] Register_02_Register_With_Invalid_Email - Step 04: Input to Password with: 0ile0yfh9bqcm
+[INFO ] [2021-03-28 14:40:34,150] Register_02_Register_With_Invalid_Email - Step 05: Input to Confirm Password with: 0ile0yfh9bqcm
+[INFO ] [2021-03-28 14:40:34,298] Register_02_Register_With_Invalid_Email - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:40:34,408] Register_02_Register_With_Invalid_Email - Step 07: Verify Invalid Email Message Displayed
+[INFO ] [2021-03-28 14:40:34,472]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:34,476] Register_03_Register_With_Existed_Email - Step 01: Input to Firstname with: Franklyn
+[INFO ] [2021-03-28 14:40:34,640] Register_03_Register_With_Existed_Email - Step 02: Input to Lastname with: Senger
+[INFO ] [2021-03-28 14:40:34,769] Register_03_Register_With_Existed_Email - Step 03: Input to Email with: deangelo.luettgen@hotmail.com
+[INFO ] [2021-03-28 14:40:34,964] Register_03_Register_With_Existed_Email - Step 04: Input to Password with: 0ile0yfh9bqcm
+[INFO ] [2021-03-28 14:40:35,134] Register_03_Register_With_Existed_Email - Step 05: Input to Confirm Password with: 0ile0yfh9bqcm
+[INFO ] [2021-03-28 14:40:35,268] Register_03_Register_With_Existed_Email - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:40:35,864] Register_03_Register_With_Existed_Email - Step 07: Verify Already Exists Email Message Displayed
+[INFO ] [2021-03-28 14:40:35,937]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:35,939] Register_04_Register_With_Invalid_Password - Step 01: Input to Firstname with: Franklyn
+[INFO ] [2021-03-28 14:40:36,052] Register_04_Register_With_Invalid_Password - Step 02: Input to Lastname with: Senger
+[INFO ] [2021-03-28 14:40:36,196] Register_04_Register_With_Invalid_Password - Step 03: Input to Email with: sol.green@hotmail.com
+[INFO ] [2021-03-28 14:40:36,378] Register_04_Register_With_Invalid_Password - Step 04: Input to Password with: 12345
+[INFO ] [2021-03-28 14:40:36,508] Register_04_Register_With_Invalid_Password - Step 05: Input to Confirm Password with: 12345
+[INFO ] [2021-03-28 14:40:36,665] Register_04_Register_With_Invalid_Password - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:40:36,782] Register_04_Register_With_Invalid_Password - Step 07: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-28 14:40:36,857]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:36,860] Register_05_Register_With_Invalid_Confirm_Password - Step 01: Input to Firstname with: Franklyn
+[INFO ] [2021-03-28 14:40:36,959] Register_05_Register_With_Invalid_Confirm_Password - Step 02: Input to Lastname with: Senger
+[INFO ] [2021-03-28 14:40:37,137] Register_05_Register_With_Invalid_Confirm_Password - Step 03: Input to Email with: sol.green@hotmail.com
+[INFO ] [2021-03-28 14:40:37,267] Register_05_Register_With_Invalid_Confirm_Password - Step 04: Input to Password with: 0ile0yfh9bqcm
+[INFO ] [2021-03-28 14:40:37,418] Register_05_Register_With_Invalid_Confirm_Password - Step 05: Input to Confirm Password with: 8kfdxqp6po
+[INFO ] [2021-03-28 14:40:37,555] Register_05_Register_With_Invalid_Confirm_Password - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:40:37,663] Register_05_Register_With_Invalid_Confirm_Password - Step 07: Verify Invalid Confirm Password Message Displayed
+[INFO ] [2021-03-28 14:40:37,720]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:37,722] Register_06_Register_With_Valid_Data - Step 01: Input to Firstname with: Franklyn
+[INFO ] [2021-03-28 14:40:37,861] Register_06_Register_With_Valid_Data - Step 02: Input to Lastname with: Senger
+[INFO ] [2021-03-28 14:40:37,982] Register_06_Register_With_Valid_Data - Step 03: Input to Email with: sol.green@hotmail.com
+[INFO ] [2021-03-28 14:40:38,121] Register_06_Register_With_Valid_Data - Step 04: Input to Password with: 0ile0yfh9bqcm
+[INFO ] [2021-03-28 14:40:38,263] Register_06_Register_With_Valid_Data - Step 05: Input to Confirm Password with: 0ile0yfh9bqcm
+[INFO ] [2021-03-28 14:40:38,410] Register_06_Register_With_Valid_Data - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:40:40,601] Register_06_Register_With_Valid_Data - Step 07: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:40:40,676]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:41,861] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-28 14:40:45,996] Precondition 01: Open Home Page
+[INFO ] [2021-03-28 14:40:45,996] Precondition 02: Click to Login link
+[INFO ] [2021-03-28 14:40:49,302] Login_01_Login_With_Empty_Data - Step 01: Do not input to Email textbox
+[INFO ] [2021-03-28 14:40:49,450] Login_01_Login_With_Empty_Data - Step 02: Do not input to Password textbox
+[INFO ] [2021-03-28 14:40:49,583] Login_01_Login_With_Empty_Data - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:40:50,708] Login_01_Login_With_Empty_Data - Step 04: Verify Empty Email Message Displayed
+[INFO ] [2021-03-28 14:40:50,779]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:50,781] Login_02_Login_With_Invalid_Email - Step 01: Input invalid email to Email textbox with: automation@mail@gmail.com
+[INFO ] [2021-03-28 14:40:51,001] Login_02_Login_With_Invalid_Email - Step 02: Input to Password textbox with: qdobp9k06ftqqz3
+[INFO ] [2021-03-28 14:40:51,111] Login_02_Login_With_Invalid_Email - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:40:52,215] Login_02_Login_With_Invalid_Email - Step 04: Verify Wrong Email Message Displayed
+[INFO ] [2021-03-28 14:40:52,285]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:52,289] Login_03_Login_With_Not_Exist_Email - Step 01: Input not exist email to Email textbox with: joaquin.reynolds@gmail.com
+[INFO ] [2021-03-28 14:40:52,456] Login_03_Login_With_Not_Exist_Email - Step 02: Input to Password textbox with: qdobp9k06ftqqz3
+[INFO ] [2021-03-28 14:40:52,586] Login_03_Login_With_Not_Exist_Email - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:40:54,833] Login_03_Login_With_Not_Exist_Email - Step 04: Verify No Customer Account Message Displayed
+[INFO ] [2021-03-28 14:40:54,951]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:54,954] Login_04_Login_With_Empty_Password - Step 01: Input to Email textbox with: deangelo.luettgen@hotmail.com
+[INFO ] [2021-03-28 14:40:55,091] Login_04_Login_With_Empty_Password - Step 02: Do not input to Password textbox
+[INFO ] [2021-03-28 14:40:55,226] Login_04_Login_With_Empty_Password - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:40:57,501] Login_04_Login_With_Empty_Password - Step 04: Verify Empty Password Message Displayed
+[INFO ] [2021-03-28 14:40:57,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:40:57,632] Login_05_Login_With_Invalid_Password - Step 01: Input to Email textbox with: deangelo.luettgen@hotmail.com
+[INFO ] [2021-03-28 14:40:57,821] Login_05_Login_With_Invalid_Password - Step 02: Input invalid password to Password textbox with: 12345
+[INFO ] [2021-03-28 14:40:57,946] Login_05_Login_With_Invalid_Password - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:41:00,232] Login_05_Login_With_Invalid_Password - Step 04: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-28 14:41:00,361]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:00,367] Login_06_Login_With_Valid_Data - Step 01: Input valid email to Email textbox with: deangelo.luettgen@hotmail.com
+[INFO ] [2021-03-28 14:41:00,518] Login_06_Login_With_Valid_Data - Step 02: Input valid password to Password textbox with: 5lu5lx8xuu
+[INFO ] [2021-03-28 14:41:00,657] Login_06_Login_With_Valid_Data - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:41:03,259] Login_06_Login_With_Valid_Data - Step 04: Verify My Account Link Displayed
+[INFO ] [2021-03-28 14:41:03,401]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:04,340] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-28 14:41:10,288] Precondition 01: Open Home Page
+[INFO ] [2021-03-28 14:41:10,288] Precondition 02: Click to Login link
+[INFO ] [2021-03-28 14:41:13,577] Precondition 03: Input valid email to Email textbox with: tifany.rogahn@yahoo.com
+[INFO ] [2021-03-28 14:41:13,763] Precondition 04: Input valid password to Password textbox with: ppoozo6c7dkug
+[INFO ] [2021-03-28 14:41:13,892] Precondition 05: Click to Login button
+[INFO ] [2021-03-28 14:41:17,282] Precondition 06: Verify My Account Link Displayed
+[INFO ] [2021-03-28 14:41:17,367]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:17,367] Precondition 07: Click to My Account Link
+[INFO ] [2021-03-28 14:41:19,796] My_Account_01_Customer_Info - Step 01: Update Gender to female
+[INFO ] [2021-03-28 14:41:19,904] My_Account_01_Customer_Info - Step 02: Update Firstname to Magali
+[INFO ] [2021-03-28 14:41:20,086] My_Account_01_Customer_Info - Step 03: Update Lastname to Powlowski
+[INFO ] [2021-03-28 14:41:20,227] My_Account_01_Customer_Info - Step 04: Update DOB Day to 1
+[INFO ] [2021-03-28 14:41:20,370] My_Account_01_Customer_Info - Step 05: Update DOB Month to January
+[INFO ] [2021-03-28 14:41:20,508] My_Account_01_Customer_Info - Step 06: Update DOB Year to 1999
+[INFO ] [2021-03-28 14:41:20,655] My_Account_01_Customer_Info - Step 07: Update Email to ismael.larson@yahoo.com
+[INFO ] [2021-03-28 14:41:20,817] My_Account_01_Customer_Info - Step 08: Update Company name to Lynch-Moen
+[INFO ] [2021-03-28 14:41:20,968] My_Account_01_Customer_Info - Step 09: Click Save button
+[INFO ] [2021-03-28 14:41:24,384] My_Account_01_Customer_Info - Step 10: Verify new Gender
+[INFO ] [2021-03-28 14:41:24,508]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:24,508] My_Account_01_Customer_Info - Step 11: Verify new Firstname
+[INFO ] [2021-03-28 14:41:24,594]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:24,594] My_Account_01_Customer_Info - Step 12: Verify new Lastname
+[INFO ] [2021-03-28 14:41:24,656]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:24,656] My_Account_01_Customer_Info - Step 13: Verify new DOB Day
+[INFO ] [2021-03-28 14:41:24,775]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:24,775] My_Account_01_Customer_Info - Step 14: Verify new DOB Month
+[INFO ] [2021-03-28 14:41:24,901]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:24,902] My_Account_01_Customer_Info - Step 15: Verify new DOB Year
+[INFO ] [2021-03-28 14:41:25,696]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:25,696] My_Account_01_Customer_Info - Step 16: Verify new Email
+[INFO ] [2021-03-28 14:41:25,752]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:25,752] My_Account_01_Customer_Info - Step 17: Verify new Company name
+[INFO ] [2021-03-28 14:41:25,815]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:25,817] My_Account_02_Addresses - Step 01: Click to Addresses link
+[INFO ] [2021-03-28 14:41:28,354] My_Account_02_Addresses - Step 02: Click to Add new button
+[INFO ] [2021-03-28 14:41:30,039] My_Account_02_Addresses - Step 03: Input to Firstname with: Kelly
+[INFO ] [2021-03-28 14:41:30,196] My_Account_02_Addresses - Step 04: Input to Lastname with: Franecki
+[INFO ] [2021-03-28 14:41:30,342] My_Account_02_Addresses - Step 05: Input to Email with: elliott.stehr@hotmail.com
+[INFO ] [2021-03-28 14:41:30,486] My_Account_02_Addresses - Step 06: Input to Company with: McCullough, Heaney and Witting
+[INFO ] [2021-03-28 14:41:30,636] My_Account_02_Addresses - Step 07: Select Country with: United States
+[INFO ] [2021-03-28 14:41:30,783] My_Account_02_Addresses - Step 08: Select State/ province with: Alaska
+[INFO ] [2021-03-28 14:41:31,828] My_Account_02_Addresses - Step 09: Input to City with: Port Ryannmouth
+[INFO ] [2021-03-28 14:41:31,980] My_Account_02_Addresses - Step 10: Input to Address 1 with: 13343 Zieme Road
+[INFO ] [2021-03-28 14:41:32,120] My_Account_02_Addresses - Step 11: Input to Address 2 with: 2627 Evon Green
+[INFO ] [2021-03-28 14:41:32,267] My_Account_02_Addresses - Step 12: Input to Zip/ postal code with: 78002-1818
+[INFO ] [2021-03-28 14:41:32,416] My_Account_02_Addresses - Step 13: Input to Phone number with: 575-394-6039
+[INFO ] [2021-03-28 14:41:32,560] My_Account_02_Addresses - Step 14: Input to Fax number with: (800) 257-9565
+[INFO ] [2021-03-28 14:41:32,704] My_Account_02_Addresses - Step 15: Click to Save button
+[INFO ] [2021-03-28 14:41:34,618] My_Account_02_Addresses - Step 16: Verify Fullname
+[INFO ] [2021-03-28 14:41:34,687]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,687] My_Account_02_Addresses - Step 18: Verify Email
+[INFO ] [2021-03-28 14:41:34,722]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,722] My_Account_02_Addresses - Step 19: Verify Company
+[INFO ] [2021-03-28 14:41:34,752]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,752] My_Account_02_Addresses - Step 20: Verify Country
+[INFO ] [2021-03-28 14:41:34,792]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,792] My_Account_02_Addresses - Step 21: Verify City State/ province Zip
+[INFO ] [2021-03-28 14:41:34,826]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,826] My_Account_02_Addresses - Step 22: Verify Address 1
+[INFO ] [2021-03-28 14:41:34,858]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,858] My_Account_02_Addresses - Step 23: Verify Address 2
+[INFO ] [2021-03-28 14:41:34,890]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,890] My_Account_02_Addresses - Step 24: Verify Phone number
+[INFO ] [2021-03-28 14:41:34,923]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,923] My_Account_02_Addresses - Step 25: Verify Fax number
+[INFO ] [2021-03-28 14:41:34,955]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:34,958] My_Account_03_Change_Password - Step 01: Click to Change Password link
+[INFO ] [2021-03-28 14:41:38,172] My_Account_03_Change_Password - Step 02: Input to Old Password with: ppoozo6c7dkug
+[INFO ] [2021-03-28 14:41:38,419] My_Account_03_Change_Password - Step 03: Input to New Password with: pyul1ia9h23o3xk
+[INFO ] [2021-03-28 14:41:38,546] My_Account_03_Change_Password - Step 04: Input to Confirm New Password with: pyul1ia9h23o3xk
+[INFO ] [2021-03-28 14:41:38,687] My_Account_03_Change_Password - Step 05: Click to Change Password button
+[INFO ] [2021-03-28 14:41:40,251] My_Account_03_Change_Password - Step 06: Verify Password was changed
+[INFO ] [2021-03-28 14:41:40,343]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:40,344] My_Account_03_Change_Password - Step 07: Close Change Password Success Message
+[INFO ] [2021-03-28 14:41:41,468] My_Account_03_Change_Password - Step 08: Click to Log out link
+[INFO ] [2021-03-28 14:41:44,881] My_Account_03_Change_Password - Step 09: Click to Log in link
+[INFO ] [2021-03-28 14:41:47,440] My_Account_03_Change_Password - Step 10: Input to Email with: ismael.larson@yahoo.com
+[INFO ] [2021-03-28 14:41:47,695] My_Account_03_Change_Password - Step 11: Input to Password with: ppoozo6c7dkug
+[INFO ] [2021-03-28 14:41:47,847] My_Account_03_Change_Password - Step 12: Click to Log in button
+[INFO ] [2021-03-28 14:41:49,344] My_Account_03_Change_Password - Step 13: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-28 14:41:49,466]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:49,466] My_Account_03_Change_Password - Step 14: Input to Email with: ismael.larson@yahoo.com
+[INFO ] [2021-03-28 14:41:49,618] My_Account_03_Change_Password - Step 15: Input to Password with: pyul1ia9h23o3xk
+[INFO ] [2021-03-28 14:41:49,749] My_Account_03_Change_Password - Step 16: Click to Log in button
+[INFO ] [2021-03-28 14:41:51,623] My_Account_03_Change_Password - Step 17: Verify My Account Link Displayed
+[INFO ] [2021-03-28 14:41:51,709]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:51,712] My_Account_04_My_Product_Reviews - Step 01: Click to Product name with: Apple MacBook Pro 13-inch
+[INFO ] [2021-03-28 14:41:53,066] My_Account_04_My_Product_Reviews - Step 02: Click to Add your review
+[INFO ] [2021-03-28 14:41:55,707] My_Account_04_My_Product_Reviews - Step 03: Input to Review title with: Review title
+[INFO ] [2021-03-28 14:41:55,960] My_Account_04_My_Product_Reviews - Step 04: Input to Review text with: Review text
+[INFO ] [2021-03-28 14:41:56,098] My_Account_04_My_Product_Reviews - Step 05: Select rating with value: 5
+[INFO ] [2021-03-28 14:41:56,202] My_Account_04_My_Product_Reviews - Step 06: Click to Submit review
+[INFO ] [2021-03-28 14:41:57,910] My_Account_04_My_Product_Reviews - Step 07: Verify Product review success message displayed
+[INFO ] [2021-03-28 14:41:58,018]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:41:58,018] My_Account_04_My_Product_Reviews - Step 08: Click to My Account link
+[INFO ] [2021-03-28 14:41:58,534] My_Account_04_My_Product_Reviews - Step 09: Click to My product reviews link
+[INFO ] [2021-03-28 14:42:01,096] My_Account_04_My_Product_Reviews - Step 10: Verify Review title
+[INFO ] [2021-03-28 14:42:01,180]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:42:01,180] My_Account_04_My_Product_Reviews - Step 11: Verify Review text
+[INFO ] [2021-03-28 14:42:01,242]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:42:01,242] My_Account_04_My_Product_Reviews - Step 12: Verify Rating
+[INFO ] [2021-03-28 14:42:01,307]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:42:02,284] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-28 14:46:40,636] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-28 14:46:40,674] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-28 14:46:44,306] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-28 14:46:44,451] Register_To_System - Step 04: Input to Firstname with: Graciela
+[INFO ] [2021-03-28 14:46:44,632] Register_To_System - Step 05: Input to Lastname with: Swaniawski
+[INFO ] [2021-03-28 14:46:44,872] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-28 14:46:45,059] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-28 14:46:45,233] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-28 14:46:45,407] Register_To_System - Step 09: Input to Email with: pinkie.heller@hotmail.com
+[INFO ] [2021-03-28 14:46:45,596] Register_To_System - Step 10: Input to Company name with: Lueilwitz, Gleason and Zulauf
+[INFO ] [2021-03-28 14:46:45,777] Register_To_System - Step 11: Input to Password with: rude3x826emrn0
+[INFO ] [2021-03-28 14:46:45,987] Register_To_System - Step 12: Input to Confirm Password with: rude3x826emrn0
+[INFO ] [2021-03-28 14:46:46,172] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-28 14:46:48,405] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:46:48,507]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:46:55,254] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-28 14:46:55,254] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-03-28 14:46:55,255] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-28 14:46:55,255] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-03-28 14:46:58,787] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-28 14:46:58,787] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-03-28 14:46:58,913] Register_To_System - Step 04: Input to Firstname with: Renate
+[INFO ] [2021-03-28 14:46:58,913] Register_To_System - Step 04: Input to Firstname with: Renate
+[INFO ] [2021-03-28 14:46:59,080] Register_To_System - Step 05: Input to Lastname with: Runolfsdottir
+[INFO ] [2021-03-28 14:46:59,080] Register_To_System - Step 05: Input to Lastname with: Runolfsdottir
+[INFO ] [2021-03-28 14:46:59,263] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-28 14:46:59,263] Register_To_System - Step 06: Select day: 24
+[INFO ] [2021-03-28 14:46:59,427] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-28 14:46:59,427] Register_To_System - Step 07: Select month: August
+[INFO ] [2021-03-28 14:46:59,574] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-28 14:46:59,574] Register_To_System - Step 08: Select year: 1990
+[INFO ] [2021-03-28 14:46:59,748] Register_To_System - Step 09: Input to Email with: tyra.hettinger@yahoo.com
+[INFO ] [2021-03-28 14:46:59,748] Register_To_System - Step 09: Input to Email with: tyra.hettinger@yahoo.com
+[INFO ] [2021-03-28 14:46:59,920] Register_To_System - Step 10: Input to Company name with: Nienow, Stokes and Smitham
+[INFO ] [2021-03-28 14:46:59,920] Register_To_System - Step 10: Input to Company name with: Nienow, Stokes and Smitham
+[INFO ] [2021-03-28 14:47:00,106] Register_To_System - Step 11: Input to Password with: r5cndnps09yddea
+[INFO ] [2021-03-28 14:47:00,106] Register_To_System - Step 11: Input to Password with: r5cndnps09yddea
+[INFO ] [2021-03-28 14:47:00,275] Register_To_System - Step 12: Input to Confirm Password with: r5cndnps09yddea
+[INFO ] [2021-03-28 14:47:00,275] Register_To_System - Step 12: Input to Confirm Password with: r5cndnps09yddea
+[INFO ] [2021-03-28 14:47:00,430] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-28 14:47:00,430] Register_To_System - Step 13: Click to Register button
+[INFO ] [2021-03-28 14:47:02,649] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:47:02,649] Register_To_System - Step 14: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:47:02,733]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:02,733]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:09,606] Precondition 01: Open Home Page
+[INFO ] [2021-03-28 14:47:09,607] Precondition 02: Click to Register link
+[INFO ] [2021-03-28 14:47:13,265] Register_01_Register_With_Empty_Data - Step 01: Click to Register button
+[INFO ] [2021-03-28 14:47:13,424] Register_01_Register_With_Empty_Data - Step 02: Verify First Name Error Message Displayed
+[INFO ] [2021-03-28 14:47:13,518]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:13,518] Register_01_Register_With_Empty_Data - Step 03: Verify Last Name Error Message Displayed
+[INFO ] [2021-03-28 14:47:13,610]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:13,610] Register_01_Register_With_Empty_Data - Step 04: Verify Email Error Message Displayed
+[INFO ] [2021-03-28 14:47:13,667]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:13,667] Register_01_Register_With_Empty_Data - Step 05: Verify Password Error Message Displayed
+[INFO ] [2021-03-28 14:47:13,734]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:13,734] Register_01_Register_With_Empty_Data - Step 06: Verify Confirm Password Error Message Displayed
+[INFO ] [2021-03-28 14:47:13,812]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:13,979] Register_02_Register_With_Invalid_Email - Step 01: Input to Firstname with: Dong
+[INFO ] [2021-03-28 14:47:14,116] Register_02_Register_With_Invalid_Email - Step 02: Input to Lastname with: O'Hara
+[INFO ] [2021-03-28 14:47:14,289] Register_02_Register_With_Invalid_Email - Step 03: Input to Email with: auto@mail@mail.com
+[INFO ] [2021-03-28 14:47:14,537] Register_02_Register_With_Invalid_Email - Step 04: Input to Password with: 2nehujuwv
+[INFO ] [2021-03-28 14:47:14,721] Register_02_Register_With_Invalid_Email - Step 05: Input to Confirm Password with: 2nehujuwv
+[INFO ] [2021-03-28 14:47:14,897] Register_02_Register_With_Invalid_Email - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:47:15,024] Register_02_Register_With_Invalid_Email - Step 07: Verify Invalid Email Message Displayed
+[INFO ] [2021-03-28 14:47:15,100]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:15,103] Register_03_Register_With_Existed_Email - Step 01: Input to Firstname with: Dong
+[INFO ] [2021-03-28 14:47:15,232] Register_03_Register_With_Existed_Email - Step 02: Input to Lastname with: O'Hara
+[INFO ] [2021-03-28 14:47:15,362] Register_03_Register_With_Existed_Email - Step 03: Input to Email with: tyra.hettinger@yahoo.com
+[INFO ] [2021-03-28 14:47:15,551] Register_03_Register_With_Existed_Email - Step 04: Input to Password with: 2nehujuwv
+[INFO ] [2021-03-28 14:47:15,720] Register_03_Register_With_Existed_Email - Step 05: Input to Confirm Password with: 2nehujuwv
+[INFO ] [2021-03-28 14:47:15,868] Register_03_Register_With_Existed_Email - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:47:17,213] Register_03_Register_With_Existed_Email - Step 07: Verify Already Exists Email Message Displayed
+[INFO ] [2021-03-28 14:47:17,316]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:17,318] Register_04_Register_With_Invalid_Password - Step 01: Input to Firstname with: Dong
+[INFO ] [2021-03-28 14:47:17,477] Register_04_Register_With_Invalid_Password - Step 02: Input to Lastname with: O'Hara
+[INFO ] [2021-03-28 14:47:17,658] Register_04_Register_With_Invalid_Password - Step 03: Input to Email with: shaina.sawayn@yahoo.com
+[INFO ] [2021-03-28 14:47:17,817] Register_04_Register_With_Invalid_Password - Step 04: Input to Password with: 12345
+[INFO ] [2021-03-28 14:47:18,005] Register_04_Register_With_Invalid_Password - Step 05: Input to Confirm Password with: 12345
+[INFO ] [2021-03-28 14:47:18,157] Register_04_Register_With_Invalid_Password - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:47:18,279] Register_04_Register_With_Invalid_Password - Step 07: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-28 14:47:18,363]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:18,366] Register_05_Register_With_Invalid_Confirm_Password - Step 01: Input to Firstname with: Dong
+[INFO ] [2021-03-28 14:47:18,498] Register_05_Register_With_Invalid_Confirm_Password - Step 02: Input to Lastname with: O'Hara
+[INFO ] [2021-03-28 14:47:18,630] Register_05_Register_With_Invalid_Confirm_Password - Step 03: Input to Email with: shaina.sawayn@yahoo.com
+[INFO ] [2021-03-28 14:47:18,769] Register_05_Register_With_Invalid_Confirm_Password - Step 04: Input to Password with: 2nehujuwv
+[INFO ] [2021-03-28 14:47:18,927] Register_05_Register_With_Invalid_Confirm_Password - Step 05: Input to Confirm Password with: dkn6c7oc91
+[INFO ] [2021-03-28 14:47:19,071] Register_05_Register_With_Invalid_Confirm_Password - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:47:19,182] Register_05_Register_With_Invalid_Confirm_Password - Step 07: Verify Invalid Confirm Password Message Displayed
+[INFO ] [2021-03-28 14:47:19,245]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:19,248] Register_06_Register_With_Valid_Data - Step 01: Input to Firstname with: Dong
+[INFO ] [2021-03-28 14:47:19,366] Register_06_Register_With_Valid_Data - Step 02: Input to Lastname with: O'Hara
+[INFO ] [2021-03-28 14:47:19,502] Register_06_Register_With_Valid_Data - Step 03: Input to Email with: shaina.sawayn@yahoo.com
+[INFO ] [2021-03-28 14:47:19,648] Register_06_Register_With_Valid_Data - Step 04: Input to Password with: 2nehujuwv
+[INFO ] [2021-03-28 14:47:19,816] Register_06_Register_With_Valid_Data - Step 05: Input to Confirm Password with: 2nehujuwv
+[INFO ] [2021-03-28 14:47:19,971] Register_06_Register_With_Valid_Data - Step 06: Click to Register button
+[INFO ] [2021-03-28 14:47:21,464] Register_06_Register_With_Valid_Data - Step 07: Verify Register Success Message Displayed
+[INFO ] [2021-03-28 14:47:21,552]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:22,281] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-28 14:47:28,360] Precondition 01: Open Home Page
+[INFO ] [2021-03-28 14:47:28,360] Precondition 02: Click to Login link
+[INFO ] [2021-03-28 14:47:31,710] Login_01_Login_With_Empty_Data - Step 01: Do not input to Email textbox
+[INFO ] [2021-03-28 14:47:31,903] Login_01_Login_With_Empty_Data - Step 02: Do not input to Password textbox
+[INFO ] [2021-03-28 14:47:32,048] Login_01_Login_With_Empty_Data - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:47:33,189] Login_01_Login_With_Empty_Data - Step 04: Verify Empty Email Message Displayed
+[INFO ] [2021-03-28 14:47:33,258]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:33,261] Login_02_Login_With_Invalid_Email - Step 01: Input invalid email to Email textbox with: automation@mail@gmail.com
+[INFO ] [2021-03-28 14:47:33,434] Login_02_Login_With_Invalid_Email - Step 02: Input to Password textbox with: w1a3otirs5
+[INFO ] [2021-03-28 14:47:33,560] Login_02_Login_With_Invalid_Email - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:47:34,657] Login_02_Login_With_Invalid_Email - Step 04: Verify Wrong Email Message Displayed
+[INFO ] [2021-03-28 14:47:34,773]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:34,776] Login_03_Login_With_Not_Exist_Email - Step 01: Input not exist email to Email textbox with: jonnie.reynolds@hotmail.com
+[INFO ] [2021-03-28 14:47:34,948] Login_03_Login_With_Not_Exist_Email - Step 02: Input to Password textbox with: w1a3otirs5
+[INFO ] [2021-03-28 14:47:35,070] Login_03_Login_With_Not_Exist_Email - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:47:36,532] Login_03_Login_With_Not_Exist_Email - Step 04: Verify No Customer Account Message Displayed
+[INFO ] [2021-03-28 14:47:36,604]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:36,607] Login_04_Login_With_Empty_Password - Step 01: Input to Email textbox with: tyra.hettinger@yahoo.com
+[INFO ] [2021-03-28 14:47:36,768] Login_04_Login_With_Empty_Password - Step 02: Do not input to Password textbox
+[INFO ] [2021-03-28 14:47:36,905] Login_04_Login_With_Empty_Password - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:47:39,180] Login_04_Login_With_Empty_Password - Step 04: Verify Empty Password Message Displayed
+[INFO ] [2021-03-28 14:47:39,321]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:39,324] Login_05_Login_With_Invalid_Password - Step 01: Input to Email textbox with: tyra.hettinger@yahoo.com
+[INFO ] [2021-03-28 14:47:39,509] Login_05_Login_With_Invalid_Password - Step 02: Input invalid password to Password textbox with: 12345
+[INFO ] [2021-03-28 14:47:39,660] Login_05_Login_With_Invalid_Password - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:47:41,933] Login_05_Login_With_Invalid_Password - Step 04: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-28 14:47:42,055]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:42,057] Login_06_Login_With_Valid_Data - Step 01: Input valid email to Email textbox with: tyra.hettinger@yahoo.com
+[INFO ] [2021-03-28 14:47:42,231] Login_06_Login_With_Valid_Data - Step 02: Input valid password to Password textbox with: r5cndnps09yddea
+[INFO ] [2021-03-28 14:47:42,395] Login_06_Login_With_Valid_Data - Step 03: Click to Login button
+[INFO ] [2021-03-28 14:47:44,376] Login_06_Login_With_Valid_Data - Step 04: Verify My Account Link Displayed
+[INFO ] [2021-03-28 14:47:44,461]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:45,207] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-28 14:47:49,376] Precondition 01: Open Home Page
+[INFO ] [2021-03-28 14:47:49,376] Precondition 02: Click to Login link
+[INFO ] [2021-03-28 14:47:52,008] Precondition 03: Input valid email to Email textbox with: pinkie.heller@hotmail.com
+[INFO ] [2021-03-28 14:47:52,213] Precondition 04: Input valid password to Password textbox with: rude3x826emrn0
+[INFO ] [2021-03-28 14:47:52,370] Precondition 05: Click to Login button
+[INFO ] [2021-03-28 14:47:55,109] Precondition 06: Verify My Account Link Displayed
+[INFO ] [2021-03-28 14:47:55,227]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:47:55,227] Precondition 07: Click to My Account Link
+[INFO ] [2021-03-28 14:47:56,907] My_Account_01_Customer_Info - Step 01: Update Gender to female
+[INFO ] [2021-03-28 14:47:57,034] My_Account_01_Customer_Info - Step 02: Update Firstname to Randolph
+[INFO ] [2021-03-28 14:47:57,207] My_Account_01_Customer_Info - Step 03: Update Lastname to Hudson
+[INFO ] [2021-03-28 14:47:57,375] My_Account_01_Customer_Info - Step 04: Update DOB Day to 1
+[INFO ] [2021-03-28 14:47:57,547] My_Account_01_Customer_Info - Step 05: Update DOB Month to January
+[INFO ] [2021-03-28 14:47:57,731] My_Account_01_Customer_Info - Step 06: Update DOB Year to 1999
+[INFO ] [2021-03-28 14:47:57,874] My_Account_01_Customer_Info - Step 07: Update Email to chung.corkery@gmail.com
+[INFO ] [2021-03-28 14:47:58,057] My_Account_01_Customer_Info - Step 08: Update Company name to Moore-Block
+[INFO ] [2021-03-28 14:47:58,237] My_Account_01_Customer_Info - Step 09: Click Save button
+[INFO ] [2021-03-28 14:48:00,104] My_Account_01_Customer_Info - Step 10: Verify new Gender
+[INFO ] [2021-03-28 14:48:00,186]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:00,186] My_Account_01_Customer_Info - Step 11: Verify new Firstname
+[INFO ] [2021-03-28 14:48:00,249]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:00,249] My_Account_01_Customer_Info - Step 12: Verify new Lastname
+[INFO ] [2021-03-28 14:48:00,313]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:00,313] My_Account_01_Customer_Info - Step 13: Verify new DOB Day
+[INFO ] [2021-03-28 14:48:00,429]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:00,429] My_Account_01_Customer_Info - Step 14: Verify new DOB Month
+[INFO ] [2021-03-28 14:48:00,536]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:00,536] My_Account_01_Customer_Info - Step 15: Verify new DOB Year
+[INFO ] [2021-03-28 14:48:01,451]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:01,451] My_Account_01_Customer_Info - Step 16: Verify new Email
+[INFO ] [2021-03-28 14:48:01,512]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:01,512] My_Account_01_Customer_Info - Step 17: Verify new Company name
+[INFO ] [2021-03-28 14:48:01,580]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:01,583] My_Account_02_Addresses - Step 01: Click to Addresses link
+[INFO ] [2021-03-28 14:48:04,079] My_Account_02_Addresses - Step 02: Click to Add new button
+[INFO ] [2021-03-28 14:48:05,707] My_Account_02_Addresses - Step 03: Input to Firstname with: Devorah
+[INFO ] [2021-03-28 14:48:05,888] My_Account_02_Addresses - Step 04: Input to Lastname with: Huel
+[INFO ] [2021-03-28 14:48:06,047] My_Account_02_Addresses - Step 05: Input to Email with: charlott.mante@gmail.com
+[INFO ] [2021-03-28 14:48:06,252] My_Account_02_Addresses - Step 06: Input to Company with: Hartmann-Dickens
+[INFO ] [2021-03-28 14:48:06,442] My_Account_02_Addresses - Step 07: Select Country with: United States
+[INFO ] [2021-03-28 14:48:06,586] My_Account_02_Addresses - Step 08: Select State/ province with: Alaska
+[INFO ] [2021-03-28 14:48:06,965] My_Account_02_Addresses - Step 09: Input to City with: East Signe
+[INFO ] [2021-03-28 14:48:07,153] My_Account_02_Addresses - Step 10: Input to Address 1 with: 26803 Hegmann Club
+[INFO ] [2021-03-28 14:48:07,369] My_Account_02_Addresses - Step 11: Input to Address 2 with: 497 Delmar Keys
+[INFO ] [2021-03-28 14:48:07,544] My_Account_02_Addresses - Step 12: Input to Zip/ postal code with: 63877-9200
+[INFO ] [2021-03-28 14:48:07,717] My_Account_02_Addresses - Step 13: Input to Phone number with: 1-812-913-5990 x4578
+[INFO ] [2021-03-28 14:48:07,882] My_Account_02_Addresses - Step 14: Input to Fax number with: (454) 089-9197 x8535
+[INFO ] [2021-03-28 14:48:08,063] My_Account_02_Addresses - Step 15: Click to Save button
+[INFO ] [2021-03-28 14:48:09,974] My_Account_02_Addresses - Step 16: Verify Fullname
+[INFO ] [2021-03-28 14:48:10,036]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,036] My_Account_02_Addresses - Step 18: Verify Email
+[INFO ] [2021-03-28 14:48:10,080]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,080] My_Account_02_Addresses - Step 19: Verify Company
+[INFO ] [2021-03-28 14:48:10,117]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,117] My_Account_02_Addresses - Step 20: Verify Country
+[INFO ] [2021-03-28 14:48:10,159]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,159] My_Account_02_Addresses - Step 21: Verify City State/ province Zip
+[INFO ] [2021-03-28 14:48:10,186]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,186] My_Account_02_Addresses - Step 22: Verify Address 1
+[INFO ] [2021-03-28 14:48:10,217]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,217] My_Account_02_Addresses - Step 23: Verify Address 2
+[INFO ] [2021-03-28 14:48:10,247]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,247] My_Account_02_Addresses - Step 24: Verify Phone number
+[INFO ] [2021-03-28 14:48:10,279]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,279] My_Account_02_Addresses - Step 25: Verify Fax number
+[INFO ] [2021-03-28 14:48:10,310]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:10,314] My_Account_03_Change_Password - Step 01: Click to Change Password link
+[INFO ] [2021-03-28 14:48:13,491] My_Account_03_Change_Password - Step 02: Input to Old Password with: rude3x826emrn0
+[INFO ] [2021-03-28 14:48:13,694] My_Account_03_Change_Password - Step 03: Input to New Password with: qcv6y4d355cxn
+[INFO ] [2021-03-28 14:48:13,844] My_Account_03_Change_Password - Step 04: Input to Confirm New Password with: qcv6y4d355cxn
+[INFO ] [2021-03-28 14:48:14,018] My_Account_03_Change_Password - Step 05: Click to Change Password button
+[INFO ] [2021-03-28 14:48:15,587] My_Account_03_Change_Password - Step 06: Verify Password was changed
+[INFO ] [2021-03-28 14:48:15,677]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:15,677] My_Account_03_Change_Password - Step 07: Close Change Password Success Message
+[INFO ] [2021-03-28 14:48:16,771] My_Account_03_Change_Password - Step 08: Click to Log out link
+[INFO ] [2021-03-28 14:48:18,677] My_Account_03_Change_Password - Step 09: Click to Log in link
+[INFO ] [2021-03-28 14:48:21,891] My_Account_03_Change_Password - Step 10: Input to Email with: chung.corkery@gmail.com
+[INFO ] [2021-03-28 14:48:22,117] My_Account_03_Change_Password - Step 11: Input to Password with: rude3x826emrn0
+[INFO ] [2021-03-28 14:48:22,288] My_Account_03_Change_Password - Step 12: Click to Log in button
+[INFO ] [2021-03-28 14:48:23,788] My_Account_03_Change_Password - Step 13: Verify Invalid Password Message Displayed
+[INFO ] [2021-03-28 14:48:23,891]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:23,891] My_Account_03_Change_Password - Step 14: Input to Email with: chung.corkery@gmail.com
+[INFO ] [2021-03-28 14:48:24,050] My_Account_03_Change_Password - Step 15: Input to Password with: qcv6y4d355cxn
+[INFO ] [2021-03-28 14:48:24,208] My_Account_03_Change_Password - Step 16: Click to Log in button
+[INFO ] [2021-03-28 14:48:26,113] My_Account_03_Change_Password - Step 17: Verify My Account Link Displayed
+[INFO ] [2021-03-28 14:48:26,190]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:26,193] My_Account_04_My_Product_Reviews - Step 01: Click to Product name with: Apple MacBook Pro 13-inch
+[INFO ] [2021-03-28 14:48:27,352] My_Account_04_My_Product_Reviews - Step 02: Click to Add your review
+[INFO ] [2021-03-28 14:48:29,902] My_Account_04_My_Product_Reviews - Step 03: Input to Review title with: Review title
+[INFO ] [2021-03-28 14:48:30,108] My_Account_04_My_Product_Reviews - Step 04: Input to Review text with: Review text
+[INFO ] [2021-03-28 14:48:30,259] My_Account_04_My_Product_Reviews - Step 05: Select rating with value: 5
+[INFO ] [2021-03-28 14:48:30,368] My_Account_04_My_Product_Reviews - Step 06: Click to Submit review
+[INFO ] [2021-03-28 14:48:31,866] My_Account_04_My_Product_Reviews - Step 07: Verify Product review success message displayed
+[INFO ] [2021-03-28 14:48:31,986]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:31,986] My_Account_04_My_Product_Reviews - Step 08: Click to My Account link
+[INFO ] [2021-03-28 14:48:32,504] My_Account_04_My_Product_Reviews - Step 09: Click to My product reviews link
+[INFO ] [2021-03-28 14:48:35,008] My_Account_04_My_Product_Reviews - Step 10: Verify Review title
+[INFO ] [2021-03-28 14:48:35,070]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:35,070] My_Account_04_My_Product_Reviews - Step 11: Verify Review text
+[INFO ] [2021-03-28 14:48:35,137]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:35,137] My_Account_04_My_Product_Reviews - Step 12: Verify Rating
+[INFO ] [2021-03-28 14:48:35,203]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 14:48:36,003] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-04-15 18:58:15,212] Register_To_System - Step 01: Open Home Page
+[INFO ] [2021-04-15 18:58:15,230] Register_To_System - Step 02: Click to Register link
+[INFO ] [2021-04-15 18:58:18,266] Register_To_System - Step 03: Select gender male
+[INFO ] [2021-04-15 18:58:30,912] 
+[INFO ] [2021-04-15 18:58:31,015] 
+[INFO ] [2021-04-15 18:58:31,807] ---------- QUIT BROWSER SUCCESS ----------

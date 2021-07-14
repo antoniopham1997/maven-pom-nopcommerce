@@ -4,6 +4,7 @@
   <parameter name="url" value="https://demo.nopcommerce.com/"/>
   <listeners>
     <listener class-name="commons.MethodListener"/>
+    <listener class-name="retryConfig.RetryListener"/>
     <listener class-name="reportConfig.ExtentReportListener"/>
     <listener class-name="org.uncommons.reportng.HTMLReporter"/>
     <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
@@ -23,6 +24,30 @@
           <include name="My_Account_04_My_Product_Reviews"/>
         </methods>
       </class> <!-- com.nopcommerce.My_Account -->
+      <class name="com.nopcommerce.Register">
+        <methods>
+          <include name="afterClass"/>
+          <include name="Register_04_Register_With_Invalid_Password"/>
+          <include name="Register_06_Register_With_Valid_Data"/>
+          <include name="Register_01_Register_With_Empty_Data"/>
+          <include name="Register_02_Register_With_Invalid_Email"/>
+          <include name="Register_03_Register_With_Existed_Email"/>
+          <include name="beforeClass"/>
+          <include name="Register_05_Register_With_Invalid_Confirm_Password"/>
+        </methods>
+      </class> <!-- com.nopcommerce.Register -->
+      <class name="com.nopcommerce.Login">
+        <methods>
+          <include name="afterClass"/>
+          <include name="Login_02_Login_With_Invalid_Email"/>
+          <include name="Login_03_Login_With_Not_Exist_Email"/>
+          <include name="Login_04_Login_With_Empty_Password"/>
+          <include name="beforeClass"/>
+          <include name="Login_01_Login_With_Empty_Data"/>
+          <include name="Login_06_Login_With_Valid_Data"/>
+          <include name="Login_05_Login_With_Invalid_Password"/>
+        </methods>
+      </class> <!-- com.nopcommerce.Login -->
     </classes>
   </test> <!-- Run on Chrome(failed) -->
 </suite> <!-- Failed suite [Nop Commerce] -->

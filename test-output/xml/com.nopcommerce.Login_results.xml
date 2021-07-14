@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="7"
+           time="0.000">
+  <properties />
+  
+            <testcase name="beforeClass" time="0.0" classname="com.nopcommerce.Login">
+          <skipped />
+    </testcase>
+            <testcase name="Login_01_Login_With_Empty_Data" time="0.0" classname="com.nopcommerce.Login">
+          <skipped />
+    </testcase>
+            <testcase name="Login_02_Login_With_Invalid_Email" time="0.0" classname="com.nopcommerce.Login">
+          <skipped />
+    </testcase>
+            <testcase name="Login_05_Login_With_Invalid_Password" time="0.0" classname="com.nopcommerce.Login">
+          <skipped />
+    </testcase>
+            <testcase name="Login_06_Login_With_Valid_Data" time="0.0" classname="com.nopcommerce.Login">
+          <skipped />
+    </testcase>
+            <testcase name="Login_04_Login_With_Empty_Password" time="0.0" classname="com.nopcommerce.Login">
+          <skipped />
+    </testcase>
+            <testcase name="Login_03_Login_With_Not_Exist_Email" time="0.0" classname="com.nopcommerce.Login">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

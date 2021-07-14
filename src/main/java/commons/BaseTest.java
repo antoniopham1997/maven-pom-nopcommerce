@@ -85,53 +85,53 @@ public class BaseTest {
 		return driver;
 	}
 	
-	protected void setBrowserDriverProperty() {
-		String browserFolderPath = GlobalConstants.PROJECT_LOCATION + getDirectorySlash("browserDriver");
-		if (isWindows()) {
-			System.setProperty("webdriver.gecko.driver", browserFolderPath + "geckodriver.exe");
-			System.setProperty("webdriver.chrome.driver", browserFolderPath + "chromedriver.exe");
-			System.setProperty("webdriver.edge.driver", browserFolderPath + "msedgedriver.exe");
-		} else if (isMac()) {
-			System.setProperty("webdriver.gecko.driver", browserFolderPath + "geckodriver_mac");
-			System.setProperty("webdriver.chrome.driver", browserFolderPath + "chromedriver_mac");
-			System.setProperty("webdriver.edge.driver", browserFolderPath + "msedgedriver_mac");
-		} else {
-			System.setProperty("webdriver.gecko.driver", browserFolderPath + "geckodriver_linux");
-			System.setProperty("webdriver.chrome.driver", browserFolderPath + "chromedriver_linux");
-		}
-	}
+//	protected void setBrowserDriverProperty() {
+//		String browserFolderPath = GlobalConstants.PROJECT_LOCATION + getDirectorySlash("browserDriver");
+//		if (isWindows()) {
+//			System.setProperty("webdriver.gecko.driver", browserFolderPath + "geckodriver.exe");
+//			System.setProperty("webdriver.chrome.driver", browserFolderPath + "chromedriver.exe");
+//			System.setProperty("webdriver.edge.driver", browserFolderPath + "msedgedriver.exe");
+//		} else if (isMac()) {
+//			System.setProperty("webdriver.gecko.driver", browserFolderPath + "geckodriver_mac");
+//			System.setProperty("webdriver.chrome.driver", browserFolderPath + "chromedriver_mac");
+//			System.setProperty("webdriver.edge.driver", browserFolderPath + "msedgedriver_mac");
+//		} else {
+//			System.setProperty("webdriver.gecko.driver", browserFolderPath + "geckodriver_linux");
+//			System.setProperty("webdriver.chrome.driver", browserFolderPath + "chromedriver_linux");
+//		}
+//	}
 		
 	protected int getRandomNumber() {
 		Random rand = new Random();
 		return rand.nextInt(99999);
 	}
 	
-	private String getDirectorySlash(String folderName) {
-		if (isMac() || isUnix() || isSolaris()) {
-			folderName = "/" + folderName + "/";
-		} else if (isWindows()) {
-			folderName = "\\" + folderName + "\\";
-		} else {
-			folderName = null;
-		}
-		return folderName;
-	}
+//	private String getDirectorySlash(String folderName) {
+//		if (isMac() || isUnix() || isSolaris()) {
+//			folderName = "/" + folderName + "/";
+//		} else if (isWindows()) {
+//			folderName = "\\" + folderName + "\\";
+//		} else {
+//			folderName = null;
+//		}
+//		return folderName;
+//	}
 
-	private boolean isWindows() {
-		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("win") >= 0);
-	}
-
-	private boolean isMac() {
-		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("mac") >= 0);
-	}
-
-	private boolean isUnix() {
-		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("nix") >= 0 || GlobalConstants.OS_NAME.toLowerCase().indexOf("nux") >= 0);
-	}
-
-	private boolean isSolaris() {
-		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("sunos") >= 0);
-	}
+//	private boolean isWindows() {
+//		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("win") >= 0);
+//	}
+//
+//	private boolean isMac() {
+//		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("mac") >= 0);
+//	}
+//
+//	private boolean isUnix() {
+//		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("nix") >= 0 || GlobalConstants.OS_NAME.toLowerCase().indexOf("nux") >= 0);
+//	}
+//
+//	private boolean isSolaris() {
+//		return (GlobalConstants.OS_NAME.toLowerCase().indexOf("sunos") >= 0);
+//	}
 	
 	private boolean checkTrue(boolean condition) {
 		boolean pass = true;
