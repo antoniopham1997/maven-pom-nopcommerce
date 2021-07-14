@@ -201,7 +201,7 @@ public class BaseTest {
 	protected void closeBrowserAndDriver(WebDriver driver) {
 		try {
 			String osName = System.getProperty("os.name").toLowerCase();
-			//log.info("OS name = " + osName);
+			//log.info("OS name = "  + osName);
 
 			String cmd = "";
 			if (driver != null) {
